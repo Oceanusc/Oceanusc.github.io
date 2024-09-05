@@ -8,8 +8,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "link",
+  description: "link的博客主页",
 
   theme,
   alias: {
@@ -22,14 +22,6 @@ export default defineUserConfig({
     oml2dPlugin({
       // 在这里配置选项
       models: [
-        {
-          "path": "https://model.oml2d.com/HK416-1-normal/model.json",
-          "position": [0, 60],
-          "scale": 0.08,
-          "stageStyle": {
-            "height": 450
-          }
-        },
         {
           "path": "https://model.oml2d.com/cat-black/model.json",
           "scale": 0.15,
