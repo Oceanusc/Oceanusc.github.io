@@ -11,7 +11,7 @@ export default defineClientConfig({
     setupTransparentNavbar({ type: "homepage" });
     // setupSnowFall();
     setupRunningTimeFooter(
-      new Date("2022-01-01"),
+      new Date("2024-09-05"),
       {
         "/": "已运行 :day 天 :hour 小时 :minute 分钟 :second 秒",
         "/zh/": "已运行 :day 天 :hour 小时 :minute 分钟 :second 秒",

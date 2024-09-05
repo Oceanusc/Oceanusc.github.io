@@ -25,7 +25,7 @@ export default hopeTheme(
 
     // 侧边栏
     sidebar,
-
+    fullscreen: true,
     // 页脚
     footer: "默认页脚",
     displayFooter: true,
