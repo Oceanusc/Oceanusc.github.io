@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: Cyang
+heroText: Ocean
 heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语
 projects:
