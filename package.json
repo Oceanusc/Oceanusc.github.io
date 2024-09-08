@@ -46,7 +46,8 @@
   "devDependencies": {
     "cross-env": "7.0.3",
     "markdownlint-cli2": "0.13.0",
-    "prettier": "3.3.3"
+    "prettier": "3.3.3",
+    "vuepress-plugin-search-pro": "2.0.0-rc.52"
   },
   "packageManager": "pnpm@9.6.0"
 }
