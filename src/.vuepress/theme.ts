@@ -57,6 +57,7 @@ export default hopeTheme(
     copyright: "Copyright © 2023-present Ocean",
 
     plugins: {
+      searchPro: true,
       blog: {
         excerptLength: 0,
       },
@@ -66,12 +67,6 @@ export default hopeTheme(
         repoId: "R_kgDOMtJFCA",
         category: "Announcements",
         categoryId: "DIC_kwDOMtJFCM4CiN6L",
-      },
-
-      docsearch: {
-        appId: "92EXITUA7H",
-        apiKey: "33b44aab931cbbd821d1cf25727c68aa",
-        indexName: "mister-hope",
       },
 
       feed: {
