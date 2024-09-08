@@ -1,40 +1,39 @@
+import { appendDatePlugin } from "@vuepress/plugin-append-date";
+import type { UserConfig } from "vuepress";
 import { defineUserConfig } from "vuepress";
-import { getDirname, path } from "vuepress/utils";
-import { oml2dPlugin } from 'vuepress-plugin-oh-my-live2d';
-const __dirname = getDirname(import.meta.url);
+
 import theme from "./theme.js";
 
-export default defineUserConfig({
-  base: "/",
+export default <UserConfig>defineUserConfig({
+  dest: "dist",
 
-  lang: "zh-CN",
-  title: "link",
-  description: "link的博客主页",
+  head: [
+    [
+      "link",
+      {
+        rel: "mask-icon",
+        href: "/assets/safari-pinned-tab.svg",
+        color: "#5c92d1",
+      },
+    ],
+  ],
+
+  locales: {
+    "/": {
+      lang: "zh-CN",
+      title: "Ocean",
+      description: "Where there is light, there is hope.",
+    },
+
+    "/en/": {
+      title: "My name is Ocean",
+      description: "Ocean personal blog",
+    },
+  },
 
   theme,
-  alias: {
-    "@theme-hope/modules/blog/components/BlogHero": path.resolve(
-      __dirname,
-      "./components/BlogHero.vue",
-    ),
-  },
-  plugins: [
-    oml2dPlugin({
-      // 在这里配置选项
-      models: [
-        {
-          "path": "https://model.oml2d.com/cat-black/model.json",
-          "scale": 0.15,
-          "position": [0, 20],
-          "stageStyle": {
-            "height": 350
-          }
-        }
-      ]
-    })
 
-    //  ...other plugins
-  ]
-  // 和 PWA 一起启用
-  // shouldPrefetch: false,
+  plugins: [appendDatePlugin()],
+
+  shouldPrefetch: false,
 });
