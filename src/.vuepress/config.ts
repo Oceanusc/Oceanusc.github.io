@@ -24,11 +24,6 @@ export default <UserConfig>defineUserConfig({
       title: "oceanusc",
       description: "Where there is light, there is hope.",
     },
-
-    "/en/": {
-      title: "My name is oceanusc",
-      description: "oceanusc personal blog",
-    },
   },
 
   theme,

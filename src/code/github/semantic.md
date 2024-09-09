@@ -77,6 +77,6 @@ Node.js 环境下可以使用:
 
 - [`cz-conventional-changelog`](https://github.com/commitizen/cz-conventional-changelog) 提供 `git cz` 命令辅助创建 semantic commit。
 
-- [`conventional-changelog-cli`](https://github.com/conventional-changelog/conventional-changelog) 来快速生成更新日志，如 [vuepress-theme-hope 的更改日志](https://github.com/Mister-Hope/vuepress-theme-hope/blob/master/CHANGELOG.md)
+- [`conventional-changelog-cli`](https://github.com/conventional-changelog/conventional-changelog) 来快速生成更新日志，如 [vuepress-theme-hope 的更改日志](https://github.com/oceanusc/vuepress-theme-hope/blob/master/CHANGELOG.md)
 
 :::

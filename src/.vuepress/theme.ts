@@ -5,11 +5,11 @@ import { enSidebarConfig, zhSidebarConfig } from "./sidebar/index.js";
 
 export default hopeTheme(
   {
-    hostname: "https://mister-hope.com",
+    hostname: "https://oceanusc.com",
 
     author: {
       name: "oceanusc",
-      url: "https://mister-hope.com",
+      url: "https://oceanusc.com",
     },
 
     favicon: "/favicon.ico",
@@ -37,17 +37,8 @@ export default hopeTheme(
           description: "一个前端开发者",
           intro: "/about/",
           medias: {
-            GitHub: "https://github.com/Mister-Hope",
-            BiliBili: "https://space.bilibili.com/630395917",
-            QQ: "http://wpa.qq.com/msgrd?v=3&uin=1178522294&site=qq&menu=yes",
-            Qzone: "https://1178522294.qzone.qq.com/",
-            Gmail: "mailto:mister-hope@outlook.com",
-            Zhihu: "https://www.zhihu.com/people/mister-hope",
-            Steam: "https://steamcommunity.com/id/Mr-Hope/",
-            Weibo: "https://weibo.com/misterhope",
-            Gitee: "https://gitee.com/Mister-Hope",
-            Twitter: "https://twitter.com/Mister_Hope",
-            Telegram: "https://t.me/Mister_Hope",
+            GitHub: "https://github.com/oceanusc",
+            Gmail: "che4ac@outlook.com",
           },
         },
       },

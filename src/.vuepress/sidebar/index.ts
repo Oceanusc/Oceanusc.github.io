@@ -12,7 +12,6 @@ import {
 import { linux } from "./linux.js";
 import { miniapp } from "./mini-app/index.js";
 import { note } from "./note.js";
-import { physics } from "./physics.js";
 import { comsol, software, vscode } from "./software/index.js";
 import { vue } from "./vue.js";
 import { jquery, website } from "./website/index.js";
@@ -25,8 +24,6 @@ export const zhSidebarConfig = sidebar({
   "/software/comsol/": comsol,
 
   "/software/": software,
-
-  "/physics/": physics,
 
   "/note/innenu/": ["", "yaml", "tag-list", "get-started"],
 
