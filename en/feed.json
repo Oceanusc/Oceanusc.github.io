@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "My name is Ocean",
+  "home_page_url": "https://mister-hope.com/en/",
+  "feed_url": "https://mister-hope.com/en/feed.json",
+  "description": "Ocean personal blog",
+  "favicon": "https://mister-hope.com/favicon.ico",
+  "items": []
+}

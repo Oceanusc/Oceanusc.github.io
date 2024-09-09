@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mister-hope.com/en/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://mister-hope.com/en/</id>
+  <title>My name is Ocean</title>
+  <subtitle>Ocean personal blog</subtitle>
+  <icon>https://mister-hope.com/favicon.ico</icon>
+  <updated>2024-09-09T04:49:47.805Z</updated>
+  <generator>@vuepress/plugin-feed</generator>
+  <link rel="self" href="https://mister-hope.com/en/atom.xml"/>
+  <link rel="alternate" href="https://mister-hope.com/en/"/>
+</feed>
