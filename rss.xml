@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://oceanusc.com/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://daiding.site/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://oceanusc.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://daiding.site/rss.xml" rel="self" type="application/rss+xml"/>
     <title>oceanusc</title>
-    <link>https://oceanusc.com/</link>
+    <link>https://daiding.site/</link>
     <description>Where there is light, there is hope.</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Sep 2024 08:02:02 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Sep 2024 08:02:02 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Sep 2024 08:48:06 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Sep 2024 08:48:06 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2023-至今 oceanusc</copyright>
@@ -28,16 +28,16 @@
     <category>JavaScript</category>
     <item>
       <title>oceanusc 介绍</title>
-      <link>https://oceanusc.com/about/</link>
-      <guid>https://oceanusc.com/about/</guid>
-      <source url="https://oceanusc.com/rss.xml">oceanusc 介绍</source>
+      <link>https://daiding.site/about/</link>
+      <guid>https://daiding.site/about/</guid>
+      <source url="https://daiding.site/rss.xml">oceanusc 介绍</source>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>代码笔记</title>
-      <link>https://oceanusc.com/code/</link>
-      <guid>https://oceanusc.com/code/</guid>
-      <source url="https://oceanusc.com/rss.xml">代码笔记</source>
+      <link>https://daiding.site/code/</link>
+      <guid>https://daiding.site/code/</guid>
+      <source url="https://daiding.site/rss.xml">代码笔记</source>
       <description>此处是 oceanusc 存放的一些代码笔记。</description>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>此处是 oceanusc 存放的一些代码笔记。</p>
@@ -138,9 +138,9 @@
     </item>
     <item>
       <title>APP 组件设计规范</title>
-      <link>https://oceanusc.com/design/APP.html</link>
-      <guid>https://oceanusc.com/design/APP.html</guid>
-      <source url="https://oceanusc.com/rss.xml">APP 组件设计规范</source>
+      <link>https://daiding.site/design/APP.html</link>
+      <guid>https://daiding.site/design/APP.html</guid>
+      <source url="https://daiding.site/rss.xml">APP 组件设计规范</source>
       <description>本文对应用程序设计中常见的组件及其作用进行了介绍。</description>
       <category>设计</category>
       <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
@@ -232,9 +232,9 @@
     </item>
     <item>
       <title>UI 设计</title>
-      <link>https://oceanusc.com/design/</link>
-      <guid>https://oceanusc.com/design/</guid>
-      <source url="https://oceanusc.com/rss.xml">UI 设计</source>
+      <link>https://daiding.site/design/</link>
+      <guid>https://daiding.site/design/</guid>
+      <source url="https://daiding.site/rss.xml">UI 设计</source>
       <description>本文列出了一些 UI 设计相关的资源。</description>
       <category>设计</category>
       <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
@@ -292,9 +292,9 @@
     </item>
     <item>
       <title>机械硬盘</title>
-      <link>https://oceanusc.com/hardware/HDD.html</link>
-      <guid>https://oceanusc.com/hardware/HDD.html</guid>
-      <source url="https://oceanusc.com/rss.xml">机械硬盘</source>
+      <link>https://daiding.site/hardware/HDD.html</link>
+      <guid>https://daiding.site/hardware/HDD.html</guid>
+      <source url="https://daiding.site/rss.xml">机械硬盘</source>
       <description>现代计算机大部分文件存储功能都是由机械硬盘这种设备提供的。(现在的 SSD 和闪存从概念和逻辑上都部分继承自机械硬盘，所以使用机械硬盘来进行理解也是没有问题的) 机械硬盘能实现信息存储的功能基于: 磁性存储介质能够被磁化，且磁化后会长久保留被磁化的状态，这种被磁化状态能够被读取出来，同时这种磁化状态还能够不断被修改，磁化正好有两个方向，所以可以表示 0...</description>
       <category>硬件</category>
       <pubDate>Fri, 05 Jun 2020 00:00:00 GMT</pubDate>
@@ -325,9 +325,9 @@
     </item>
     <item>
       <title>硬件相关</title>
-      <link>https://oceanusc.com/hardware/</link>
-      <guid>https://oceanusc.com/hardware/</guid>
-      <source url="https://oceanusc.com/rss.xml">硬件相关</source>
+      <link>https://daiding.site/hardware/</link>
+      <guid>https://daiding.site/hardware/</guid>
+      <source url="https://daiding.site/rss.xml">硬件相关</source>
       <description>这里是一些常见的硬件相关的问题总结，供访客查阅。</description>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>这里是一些常见的硬件相关的问题总结，供访客查阅。</p>
@@ -336,9 +336,9 @@
     </item>
     <item>
       <title>CPU 的架构</title>
-      <link>https://oceanusc.com/hardware/structure.html</link>
-      <guid>https://oceanusc.com/hardware/structure.html</guid>
-      <source url="https://oceanusc.com/rss.xml">CPU 的架构</source>
+      <link>https://daiding.site/hardware/structure.html</link>
+      <guid>https://daiding.site/hardware/structure.html</guid>
+      <source url="https://daiding.site/rss.xml">CPU 的架构</source>
       <description>CPU 内部已经含有一些微指令，我们所使用的软件都要经过 CPU 内部的微指令集来达成才行。那这些指令集的设计主要又被分为两种设计理念，这就是目前世界上常见到的两种主要 CPU 架构，分别是: 精简指令集(RISC)与复杂指令集(CISC) 系统。 精简指令集 精简指令集，(Reduced Instruction Set Computer, RISC)...</description>
       <category>硬件</category>
       <pubDate>Fri, 05 Jun 2020 00:00:00 GMT</pubDate>
@@ -359,9 +359,9 @@
     </item>
     <item>
       <title>Linux</title>
-      <link>https://oceanusc.com/linux/</link>
-      <guid>https://oceanusc.com/linux/</guid>
-      <source url="https://oceanusc.com/rss.xml">Linux</source>
+      <link>https://daiding.site/linux/</link>
+      <guid>https://daiding.site/linux/</guid>
+      <source url="https://daiding.site/rss.xml">Linux</source>
       <description>Linux 教程 ubuntu CentOS WSL</description>
       <category>Linux</category>
       <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
@@ -447,9 +447,9 @@
     </item>
     <item>
       <title>WSL</title>
-      <link>https://oceanusc.com/linux/WSL.html</link>
-      <guid>https://oceanusc.com/linux/WSL.html</guid>
-      <source url="https://oceanusc.com/rss.xml">WSL</source>
+      <link>https://daiding.site/linux/WSL.html</link>
+      <guid>https://daiding.site/linux/WSL.html</guid>
+      <source url="https://daiding.site/rss.xml">WSL</source>
       <description>WSL 可以直接在 Windows 系统上安装并运行 Linux。目前最新的版本是 WSL2。</description>
       <category>Linux</category>
       <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
@@ -468,9 +468,9 @@
     </item>
     <item>
       <title>CentOS 教程</title>
-      <link>https://oceanusc.com/linux/centos.html</link>
-      <guid>https://oceanusc.com/linux/centos.html</guid>
-      <source url="https://oceanusc.com/rss.xml">CentOS 教程</source>
+      <link>https://daiding.site/linux/centos.html</link>
+      <guid>https://daiding.site/linux/centos.html</guid>
+      <source url="https://daiding.site/rss.xml">CentOS 教程</source>
       <description>管理工具 yum (Centos 7) dnf (Centos 8) yarn 测试是否安装成功:</description>
       <category>Linux</category>
       <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
@@ -491,9 +491,9 @@
     </item>
     <item>
       <title>ssh</title>
-      <link>https://oceanusc.com/linux/ssh.html</link>
-      <guid>https://oceanusc.com/linux/ssh.html</guid>
-      <source url="https://oceanusc.com/rss.xml">ssh</source>
+      <link>https://daiding.site/linux/ssh.html</link>
+      <guid>https://daiding.site/linux/ssh.html</guid>
+      <source url="https://daiding.site/rss.xml">ssh</source>
       <description>使用密码登录 执行以下命令，连接 Linux 云服务器。 username 即为前提条件中获得的默认帐号。 hostname or IP address 为您的 Linux 实例公网 IP 或自定义域名。 输入已获取的密码，按 Enter，即可完成登录。 使用密钥登录 执行以下命令，赋予私钥文件仅本人可读权限。 执行以下命令，进行远程登录。 usern...</description>
       <category>基础</category>
       <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
@@ -533,9 +533,9 @@
     </item>
     <item>
       <title>微分方程</title>
-      <link>https://oceanusc.com/math/differential-equation.html</link>
-      <guid>https://oceanusc.com/math/differential-equation.html</guid>
-      <source url="https://oceanusc.com/rss.xml">微分方程</source>
+      <link>https://daiding.site/math/differential-equation.html</link>
+      <guid>https://daiding.site/math/differential-equation.html</guid>
+      <source url="https://daiding.site/rss.xml">微分方程</source>
       <description>概念 微分方程表示未知函数，未知函数的导数与自变量之间的关系的方程。 阶: 未知函数的最高阶的导数叫阶数 一般形式: 如果最高阶导数可以被解出，则有 解: 找到令方程变为恒等式的函数 通解: 解中含有任意常数，且常数的个数与阶数相同 初值条件: 给出特定 下， 的值，此时求出的解为该条件下的特解。 可分离变量: 形如 的形式 如果 , 连续，且有 ，则...</description>
       <pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>概念</h2>
@@ -572,9 +572,9 @@
     </item>
     <item>
       <title>软件教程</title>
-      <link>https://oceanusc.com/software/</link>
-      <guid>https://oceanusc.com/software/</guid>
-      <source url="https://oceanusc.com/rss.xml">软件教程</source>
+      <link>https://daiding.site/software/</link>
+      <guid>https://daiding.site/software/</guid>
+      <source url="https://daiding.site/rss.xml">软件教程</source>
       <description>代码编辑器 团队协作 开发项目的代码版本管理以及多人协作使用 Git 软件 浏览器 在开发中，调试网页推荐使用 Chrome。 后端 Http Server 网站已经停止使用 Apache Lounge 编译的 httpd Apache。目前迁移到更加轻量，并发性能更好的 Nginx 上。 抓包与 API 调试 工具软件 手机 APP soloLear...</description>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>代码编辑器</h2>
@@ -625,9 +625,9 @@
     </item>
     <item>
       <title>Apache</title>
-      <link>https://oceanusc.com/software/apache.html</link>
-      <guid>https://oceanusc.com/software/apache.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Apache</source>
+      <link>https://daiding.site/software/apache.html</link>
+      <guid>https://daiding.site/software/apache.html</guid>
+      <source url="https://daiding.site/rss.xml">Apache</source>
       <description>Apache 是世界使用排名第一的 Web 服务器软件。它可以运行在几乎所有广泛使用的计算机平台上，由于其跨平台和安全性被广泛使用，是最流行的 Web 服务器端软件之一。它快速、可靠并且可通过简单的 API 扩充，将 Perl/Python 等解释器编译到服务器中。</description>
       <category>服务器</category>
       <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
@@ -789,9 +789,9 @@
     </item>
     <item>
       <title>Chrome</title>
-      <link>https://oceanusc.com/software/chrome.html</link>
-      <guid>https://oceanusc.com/software/chrome.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Chrome</source>
+      <link>https://daiding.site/software/chrome.html</link>
+      <guid>https://daiding.site/software/chrome.html</guid>
+      <source url="https://daiding.site/rss.xml">Chrome</source>
       <description>Chrome 是谷歌出品的浏览器。其内核使用 Chromium，基于 JavaScript V8，是全球比例最大的浏览器内核。</description>
       <category>软件</category>
       <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
@@ -842,9 +842,9 @@
     </item>
     <item>
       <title>代码编辑器</title>
-      <link>https://oceanusc.com/software/editor.html</link>
-      <guid>https://oceanusc.com/software/editor.html</guid>
-      <source url="https://oceanusc.com/rss.xml">代码编辑器</source>
+      <link>https://daiding.site/software/editor.html</link>
+      <guid>https://daiding.site/software/editor.html</guid>
+      <source url="https://daiding.site/rss.xml">代码编辑器</source>
       <description>VS Code 的全称是 Visual Studio Code，是一款开源的、免费的、跨平台的、高性能的、轻量级的代码编辑器。它在性能、语言支持、开源社区方面，都做的很不错。 VS Code 具有最大的编辑器社区，插件是所有编辑器里最全的。可以通过安装扩展实现几乎所有的功能，但扩展设置界面对新手不够友好，适合有一定经验的开发者。 提示 推荐使用轻量的 ...</description>
       <category>软件</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
@@ -887,9 +887,9 @@
     </item>
     <item>
       <title>Nginx</title>
-      <link>https://oceanusc.com/software/nginx.html</link>
-      <guid>https://oceanusc.com/software/nginx.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Nginx</source>
+      <link>https://daiding.site/software/nginx.html</link>
+      <guid>https://daiding.site/software/nginx.html</guid>
+      <source url="https://daiding.site/rss.xml">Nginx</source>
       <description>Nginx 是一个高性能的 HTTP 和反向代理服务器，也是一个 IMAP / POP3 / SMTP 代理服务器。其特点是占有内存少，并发能力强，稳定性高，并且 Nginx 也拥有友好灵活的配置。</description>
       <category>服务器</category>
       <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
@@ -1006,9 +1006,9 @@
     </item>
     <item>
       <title>Postman</title>
-      <link>https://oceanusc.com/software/postman.html</link>
-      <guid>https://oceanusc.com/software/postman.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Postman</source>
+      <link>https://daiding.site/software/postman.html</link>
+      <guid>https://daiding.site/software/postman.html</guid>
+      <source url="https://daiding.site/rss.xml">Postman</source>
       <description>Postman 是一个强大的抓包与网络调试工具。</description>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Postman 是一个强大的抓包与网络调试工具。</p>
@@ -1016,9 +1016,9 @@
     </item>
     <item>
       <title>应用基础知识</title>
-      <link>https://oceanusc.com/code/android/base.html</link>
-      <guid>https://oceanusc.com/code/android/base.html</guid>
-      <source url="https://oceanusc.com/rss.xml">应用基础知识</source>
+      <link>https://daiding.site/code/android/base.html</link>
+      <guid>https://daiding.site/code/android/base.html</guid>
+      <source url="https://daiding.site/rss.xml">应用基础知识</source>
       <description>本章包含了一些关于 Android 开发的基础内容。</description>
       <category>Android</category>
       <pubDate>Wed, 08 Apr 2020 00:00:00 GMT</pubDate>
@@ -1105,9 +1105,9 @@
     </item>
     <item>
       <title>应用资源概览</title>
-      <link>https://oceanusc.com/code/android/resource.html</link>
-      <guid>https://oceanusc.com/code/android/resource.html</guid>
-      <source url="https://oceanusc.com/rss.xml">应用资源概览</source>
+      <link>https://daiding.site/code/android/resource.html</link>
+      <guid>https://daiding.site/code/android/resource.html</guid>
+      <source url="https://daiding.site/rss.xml">应用资源概览</source>
       <description>资源是指代码使用的附加文件和静态内容，例如位图、布局定义、界面字符串、动画说明等。</description>
       <category>Android</category>
       <pubDate>Thu, 09 Apr 2020 00:00:00 GMT</pubDate>
@@ -1138,9 +1138,9 @@
     </item>
     <item>
       <title>Angular</title>
-      <link>https://oceanusc.com/code/angular/</link>
-      <guid>https://oceanusc.com/code/angular/</guid>
-      <source url="https://oceanusc.com/rss.xml">Angular</source>
+      <link>https://daiding.site/code/angular/</link>
+      <guid>https://daiding.site/code/angular/</guid>
+      <source url="https://daiding.site/rss.xml">Angular</source>
       <description>Angular 是 Google 官方在 2016 年 9 月出品的一款框架。 框架强制 Typescript，更倾向于大型项目。</description>
       <category>前端</category>
       <pubDate>Wed, 06 May 2020 00:00:00 GMT</pubDate>
@@ -1174,9 +1174,9 @@
     </item>
     <item>
       <title>后端开发</title>
-      <link>https://oceanusc.com/code/back-end/</link>
-      <guid>https://oceanusc.com/code/back-end/</guid>
-      <source url="https://oceanusc.com/rss.xml">后端开发</source>
+      <link>https://daiding.site/code/back-end/</link>
+      <guid>https://daiding.site/code/back-end/</guid>
+      <source url="https://daiding.site/rss.xml">后端开发</source>
       <description>后端入门 注意 2023 年后端还是 Java 比较多 PHP PHP 是一种创建动态交互性站点的强有力的服务器端脚本语言，免费，并且使用非常广泛。PHP (全称 Hypertext Preprocessor，即超文本预处理器)是一种通用开源脚本语言。 PHP 手册: W3School 教程 菜鸟教程 如果服务器访问数量不大的情况下，PHP 作为一种门...</description>
       <category>后端</category>
       <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
@@ -1215,9 +1215,9 @@
     </item>
     <item>
       <title>基础介绍</title>
-      <link>https://oceanusc.com/code/basic/</link>
-      <guid>https://oceanusc.com/code/basic/</guid>
-      <source url="https://oceanusc.com/rss.xml">基础介绍</source>
+      <link>https://daiding.site/code/basic/</link>
+      <guid>https://daiding.site/code/basic/</guid>
+      <source url="https://daiding.site/rss.xml">基础介绍</source>
       <description>这些是一些最为基础的内容，是后来补充进博客中的，供访客查阅。</description>
       <category>基础</category>
       <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
@@ -1227,9 +1227,9 @@
     </item>
     <item>
       <title>持续集成</title>
-      <link>https://oceanusc.com/code/basic/ci.html</link>
-      <guid>https://oceanusc.com/code/basic/ci.html</guid>
-      <source url="https://oceanusc.com/rss.xml">持续集成</source>
+      <link>https://daiding.site/code/basic/ci.html</link>
+      <guid>https://daiding.site/code/basic/ci.html</guid>
+      <source url="https://daiding.site/rss.xml">持续集成</source>
       <description>持续集成 (Continuous Integration) 指的是，频繁地 (一天多次) 将代码集成到主干，每次集成都通过自动化的构建 (包括编译，发布，自动化测试) 来验证，从而尽早地发现集成错误。 持续集成的目的让产品可以快速迭代，同时还能保持高质量。就是说每完成一个完整的部分，就向下个环节交付，发现问题可以马上调整，使得问题不会放大到其他部分和后...</description>
       <category>基础</category>
       <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
@@ -1258,9 +1258,9 @@
     </item>
     <item>
       <title>计算机</title>
-      <link>https://oceanusc.com/code/basic/computer.html</link>
-      <guid>https://oceanusc.com/code/basic/computer.html</guid>
-      <source url="https://oceanusc.com/rss.xml">计算机</source>
+      <link>https://daiding.site/code/basic/computer.html</link>
+      <guid>https://daiding.site/code/basic/computer.html</guid>
+      <source url="https://daiding.site/rss.xml">计算机</source>
       <description>计算机是一台机器，它按照用户的要求接收信息、存储数据、处理数据，然后再将处理结果输出(文字、图片、音频、视频等)。 计算机的核心就是: 接受使用者输入指令与资料，经由中央处理器的数学与逻辑单元运算处理后，以产生或储存成有用的资讯。</description>
       <category>基础</category>
       <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
@@ -1290,9 +1290,9 @@
     </item>
     <item>
       <title>开发简介</title>
-      <link>https://oceanusc.com/code/basic/debug.html</link>
-      <guid>https://oceanusc.com/code/basic/debug.html</guid>
-      <source url="https://oceanusc.com/rss.xml">开发简介</source>
+      <link>https://daiding.site/code/basic/debug.html</link>
+      <guid>https://daiding.site/code/basic/debug.html</guid>
+      <source url="https://daiding.site/rss.xml">开发简介</source>
       <description>开发是根据用户要求建造出合理程序的过程。过程一般是用某种程序设计语言来实现的。通常采用开发工具可以进行开发。</description>
       <category>基础</category>
       <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
@@ -1344,9 +1344,9 @@
     </item>
     <item>
       <title>计算机编码介绍</title>
-      <link>https://oceanusc.com/code/basic/encoding.html</link>
-      <guid>https://oceanusc.com/code/basic/encoding.html</guid>
-      <source url="https://oceanusc.com/rss.xml">计算机编码介绍</source>
+      <link>https://daiding.site/code/basic/encoding.html</link>
+      <guid>https://daiding.site/code/basic/encoding.html</guid>
+      <source url="https://daiding.site/rss.xml">计算机编码介绍</source>
       <description>计算机，不能直接存储文字，存储的是编码。 计算机只能处理二进制的数据，也就是说计算机只能处理数字。如果要处理文本，比如: 0-9、a-z、A-Z，就必须先把文本转换为数字才能处理。对于这些字符，可以定义一套规则来显示，比如: A 用 110 表示，B 用 111 表示等。</description>
       <category>基础</category>
       <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
@@ -1373,9 +1373,9 @@
     </item>
     <item>
       <title>文件名与文件扩展名</title>
-      <link>https://oceanusc.com/code/basic/file-extension.html</link>
-      <guid>https://oceanusc.com/code/basic/file-extension.html</guid>
-      <source url="https://oceanusc.com/rss.xml">文件名与文件扩展名</source>
+      <link>https://daiding.site/code/basic/file-extension.html</link>
+      <guid>https://daiding.site/code/basic/file-extension.html</guid>
+      <source url="https://daiding.site/rss.xml">文件名与文件扩展名</source>
       <description>文件名 文件名就是文件的名称，是为了方便人们区分计算机中的不同文件，而给每个文件设定一个指定的名称。 文件名不能包含控制字符: &amp;lt; &amp;gt; / \ | : &amp;quot; * ? 文件扩展名 文件扩展名 (filename extension) 也称为文件的延伸文件名、后缀名，是操作系统用来标记文件类型的一种机制。通常来说，一个扩展名是跟在主文件名后面的，由一个分隔符...</description>
       <category>基础</category>
       <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
@@ -1402,9 +1402,9 @@
     </item>
     <item>
       <title>Glob</title>
-      <link>https://oceanusc.com/code/basic/glob.html</link>
-      <guid>https://oceanusc.com/code/basic/glob.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Glob</source>
+      <link>https://daiding.site/code/basic/glob.html</link>
+      <guid>https://daiding.site/code/basic/glob.html</guid>
+      <source url="https://daiding.site/rss.xml">Glob</source>
       <description>本文介绍 Glob 匹配。</description>
       <category>基础</category>
       <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
@@ -1465,9 +1465,9 @@
     </item>
     <item>
       <title>开源协议</title>
-      <link>https://oceanusc.com/code/basic/license.html</link>
-      <guid>https://oceanusc.com/code/basic/license.html</guid>
-      <source url="https://oceanusc.com/rss.xml">开源协议</source>
+      <link>https://daiding.site/code/basic/license.html</link>
+      <guid>https://daiding.site/code/basic/license.html</guid>
+      <source url="https://daiding.site/rss.xml">开源协议</source>
       <description>开源软件在追求“自由”的同时，不能牺牲程序员的利益，否则将会影响程序员的创造激情，因此世界上现在有 60 多种被开源促进组织 (Open Source Initiative) 认可的开源许可协议来保证开源工作者的权益。 开源协议规定了您在使用开源软件时的权利和责任，也就是规定了您可以做什么，不可以做什么。 开源协议虽然不一定具备法律效力，但是当涉及软件...</description>
       <category>基础</category>
       <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
@@ -1547,9 +1547,9 @@
     </item>
     <item>
       <title>开源与免费</title>
-      <link>https://oceanusc.com/code/basic/open-source-and-free.html</link>
-      <guid>https://oceanusc.com/code/basic/open-source-and-free.html</guid>
-      <source url="https://oceanusc.com/rss.xml">开源与免费</source>
+      <link>https://daiding.site/code/basic/open-source-and-free.html</link>
+      <guid>https://daiding.site/code/basic/open-source-and-free.html</guid>
+      <source url="https://daiding.site/rss.xml">开源与免费</source>
       <description>开源软件和免费软件是两个概念: 开源软件是指公开源代码的软件。开源软件在发行的时候会附上软件的源代码，并授权允许用户更改、传播或者二次开发。 免费软件就是免费提供给用户使用的软件，但是在免费的同时，通常也会有一些限制，比如源代码不公开，用户不能随意修改、不能二次发布等。</description>
       <category>基础</category>
       <pubDate>Fri, 05 Jun 2020 00:00:00 GMT</pubDate>
@@ -1631,9 +1631,9 @@
     </item>
     <item>
       <title>操作系统</title>
-      <link>https://oceanusc.com/code/basic/os.html</link>
-      <guid>https://oceanusc.com/code/basic/os.html</guid>
-      <source url="https://oceanusc.com/rss.xml">操作系统</source>
+      <link>https://daiding.site/code/basic/os.html</link>
+      <guid>https://daiding.site/code/basic/os.html</guid>
+      <source url="https://daiding.site/rss.xml">操作系统</source>
       <description>操作系统 (Operating System，OS) 是软件的一部分，它是硬件基础上的第一层软件，是硬件和其它软件沟通的桥梁(或者说接口、中间人、中介等)。</description>
       <category>基础</category>
       <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
@@ -1665,9 +1665,9 @@
     </item>
     <item>
       <title>路径</title>
-      <link>https://oceanusc.com/code/basic/path.html</link>
-      <guid>https://oceanusc.com/code/basic/path.html</guid>
-      <source url="https://oceanusc.com/rss.xml">路径</source>
+      <link>https://daiding.site/code/basic/path.html</link>
+      <guid>https://daiding.site/code/basic/path.html</guid>
+      <source url="https://daiding.site/rss.xml">路径</source>
       <description>无论是我们想直接访问一个文件，还是在一个文件中希望访问另一个文件，都涉及到一个获取文件的操作。而无论是在 Windows 中还是在 Linux 中，文件的具体位置都用文档的路径标注。 路径常常涉及到物理路径，相对路径，绝对路径，根目录的概念，现加以说明。</description>
       <category>基础</category>
       <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
@@ -1728,9 +1728,9 @@
     </item>
     <item>
       <title>GitHub</title>
-      <link>https://oceanusc.com/code/github/</link>
-      <guid>https://oceanusc.com/code/github/</guid>
-      <source url="https://oceanusc.com/rss.xml">GitHub</source>
+      <link>https://daiding.site/code/github/</link>
+      <guid>https://daiding.site/code/github/</guid>
+      <source url="https://daiding.site/rss.xml">GitHub</source>
       <description>快速上手</description>
       <category>GitHub</category>
       <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
@@ -1739,9 +1739,9 @@
     </item>
     <item>
       <title>自动部署</title>
-      <link>https://oceanusc.com/code/github/deploy.html</link>
-      <guid>https://oceanusc.com/code/github/deploy.html</guid>
-      <source url="https://oceanusc.com/rss.xml">自动部署</source>
+      <link>https://daiding.site/code/github/deploy.html</link>
+      <guid>https://daiding.site/code/github/deploy.html</guid>
+      <source url="https://daiding.site/rss.xml">自动部署</source>
       <description>本文介绍如何利用 Git 和 GitHub Action，自动部署代码到服务器。</description>
       <category>GitHub</category>
       <pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate>
@@ -1894,9 +1894,9 @@
     </item>
     <item>
       <title>GitHub 简介</title>
-      <link>https://oceanusc.com/code/github/intro.html</link>
-      <guid>https://oceanusc.com/code/github/intro.html</guid>
-      <source url="https://oceanusc.com/rss.xml">GitHub 简介</source>
+      <link>https://daiding.site/code/github/intro.html</link>
+      <guid>https://daiding.site/code/github/intro.html</guid>
+      <source url="https://daiding.site/rss.xml">GitHub 简介</source>
       <description>GitHub 是世界上最大的 代码托管网站 😋 当然在上面交友也是极好的(这是重点，圈起来要考的😎)。 基本概念 Repository 仓库。一个仓库即是一个项目。仓库是 GitHub 上的主要内容。每当您新建一个项目并想要在 GitHub。 Star 收藏。在每一个仓库主页的上方可以看到 star 按钮。其上的数值为收藏该项目的人数。点击星星即可...</description>
       <category>GitHub</category>
       <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
@@ -1964,9 +1964,9 @@
     </item>
     <item>
       <title>GitHub Pages</title>
-      <link>https://oceanusc.com/code/github/pages.html</link>
-      <guid>https://oceanusc.com/code/github/pages.html</guid>
-      <source url="https://oceanusc.com/rss.xml">GitHub Pages</source>
+      <link>https://daiding.site/code/github/pages.html</link>
+      <guid>https://daiding.site/code/github/pages.html</guid>
+      <source url="https://daiding.site/rss.xml">GitHub Pages</source>
       <description>GitHub Pages 是静态站点托管服务，可直接从 GitHub 上的存储库中获取 HTML，CSS 和 JavaScript 文件，还可以选择在构建过程中运行这些文件并发布网站。 您可以将站点托管在 GitHub 的 github.io 域名或您自己的自定义域名上。</description>
       <category>GitHub</category>
       <pubDate>Sat, 20 Feb 2021 00:00:00 GMT</pubDate>
@@ -2036,9 +2036,9 @@
     </item>
     <item>
       <title>Pull Request</title>
-      <link>https://oceanusc.com/code/github/pr.html</link>
-      <guid>https://oceanusc.com/code/github/pr.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Pull Request</source>
+      <link>https://daiding.site/code/github/pr.html</link>
+      <guid>https://daiding.site/code/github/pr.html</guid>
+      <source url="https://daiding.site/rss.xml">Pull Request</source>
       <description>简介 对于一个用户的公开仓库，在默认情况下虽然其他用户可以拉取该库的代码，但是他们并不能够直接向这个库进行推送。 GitHub 是一个代码社区，这意味着鼓励大家互相提交与贡献代码。所以这就是 Fork 和 Pull Request 出现的意义。没有人会给一个陌生人添加访问自己仓库的权限，所以我们需要一种方式，能够让大家向仓库所有者发起贡献代码的请求。这...</description>
       <category>GitHub</category>
       <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
@@ -2083,9 +2083,9 @@
     </item>
     <item>
       <title>语义化提交</title>
-      <link>https://oceanusc.com/code/github/semantic.html</link>
-      <guid>https://oceanusc.com/code/github/semantic.html</guid>
-      <source url="https://oceanusc.com/rss.xml">语义化提交</source>
+      <link>https://daiding.site/code/github/semantic.html</link>
+      <guid>https://daiding.site/code/github/semantic.html</guid>
+      <source url="https://daiding.site/rss.xml">语义化提交</source>
       <description>Semantic 对于一个大型项目，几千个 commit 是很常见的，这些 commit 部分是项目维护者提交的 commit，部分是一些热心的开发者通过 PR 贡献的。 无论是对于项目维护者，还是想要贡献代码的热心开发者来说，一个简洁明了的 commit 描述都是必不可少的。也就是说我们需要用尽可能简短的备注信息，备注每一个 commit 的作用，以...</description>
       <category>GitHub</category>
       <pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate>
@@ -2144,9 +2144,9 @@
     </item>
     <item>
       <title>加速 GitHub 克隆</title>
-      <link>https://oceanusc.com/code/github/speedup.html</link>
-      <guid>https://oceanusc.com/code/github/speedup.html</guid>
-      <source url="https://oceanusc.com/rss.xml">加速 GitHub 克隆</source>
+      <link>https://daiding.site/code/github/speedup.html</link>
+      <guid>https://daiding.site/code/github/speedup.html</guid>
+      <source url="https://daiding.site/rss.xml">加速 GitHub 克隆</source>
       <description>由于 GFW 的存在，GitHub 的访问速度在大部分国内地区都很慢，甚至不稳定。如果需要克隆体积比较大的项目，可能需要很长时间，也很大概率会在中途因为网络波动、终端问题导致克隆失败。 本文介绍如何使用 Gitee 加快 GitHub 项目克隆。 Gitee Gitee 又称码云，是一个国内的代码托管商，国内访问 Gitee 的速度是十分 Amazin...</description>
       <category>GitHub</category>
       <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
@@ -2171,9 +2171,9 @@
     </item>
     <item>
       <title>GitHub Token</title>
-      <link>https://oceanusc.com/code/github/token.html</link>
-      <guid>https://oceanusc.com/code/github/token.html</guid>
-      <source url="https://oceanusc.com/rss.xml">GitHub Token</source>
+      <link>https://daiding.site/code/github/token.html</link>
+      <guid>https://daiding.site/code/github/token.html</guid>
+      <source url="https://daiding.site/rss.xml">GitHub Token</source>
       <description>Personal Access Token (PAT)，又称个人访问令牌，是一种代替密码进行 GitHub 身份认证的方式。 通常情况下，你可能需要在 GitHub Workflow 中使用 PAT，以便在 GitHub Actions 中使用需要授权的 GitHub API。</description>
       <category>GitHub</category>
       <pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate>
@@ -2200,9 +2200,9 @@
     </item>
     <item>
       <title>代码学习教程</title>
-      <link>https://oceanusc.com/code/language/</link>
-      <guid>https://oceanusc.com/code/language/</guid>
-      <source url="https://oceanusc.com/rss.xml">代码学习教程</source>
+      <link>https://daiding.site/code/language/</link>
+      <guid>https://daiding.site/code/language/</guid>
+      <source url="https://daiding.site/rss.xml">代码学习教程</source>
       <description>教程目录 (编写中...) Java 教程(廖雪峰的博客) Linter 提示 C 、C++、Java、PHP 正在编写中...</description>
       <category>教程</category>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
@@ -2245,9 +2245,9 @@
     </item>
     <item>
       <title>如何学习一门计算机语言</title>
-      <link>https://oceanusc.com/code/language/learning.html</link>
-      <guid>https://oceanusc.com/code/language/learning.html</guid>
-      <source url="https://oceanusc.com/rss.xml">如何学习一门计算机语言</source>
+      <link>https://daiding.site/code/language/learning.html</link>
+      <guid>https://daiding.site/code/language/learning.html</guid>
+      <source url="https://daiding.site/rss.xml">如何学习一门计算机语言</source>
       <description>如何学习一门计算机语言 提示 学习一门语言的基本顺序是: 了解数据结构 了解变量声明与赋值 了解判断和循环体结构 了解函数声明 了解输入输出 本部分将以 JS 作为示例，展示什么是一门计算机语言，应该如何学习它们。 基础 首先，任何语言都是由一些基本结构组成的，下面介绍几乎所有语言共有的一些概念: 语句 语句可以简单理解为一个操作，它可以是赋值，也可以...</description>
       <category>教程</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
@@ -2374,9 +2374,9 @@
     </item>
     <item>
       <title>小程序</title>
-      <link>https://oceanusc.com/code/mini-app/</link>
-      <guid>https://oceanusc.com/code/mini-app/</guid>
-      <source url="https://oceanusc.com/rss.xml">小程序</source>
+      <link>https://daiding.site/code/mini-app/</link>
+      <guid>https://daiding.site/code/mini-app/</guid>
+      <source url="https://daiding.site/rss.xml">小程序</source>
       <description>提示 在开发小程序之前。应当掌握 HTML、CSS、JavaScript 基础 以及 ES6。</description>
       <category>小程序</category>
       <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
@@ -2618,9 +2618,9 @@
     </item>
     <item>
       <title>小程序分享</title>
-      <link>https://oceanusc.com/code/mini-app/qr-code.html</link>
-      <guid>https://oceanusc.com/code/mini-app/qr-code.html</guid>
-      <source url="https://oceanusc.com/rss.xml">小程序分享</source>
+      <link>https://daiding.site/code/mini-app/qr-code.html</link>
+      <guid>https://daiding.site/code/mini-app/qr-code.html</guid>
+      <source url="https://daiding.site/rss.xml">小程序分享</source>
       <description>二维码生成 目前小程序二维码生成选用的是无限制生成二维码。 我们使用 Postman 软件进行二维码的获取。 调用凭据获取 获取任何二维码都需要先获取 access_token，这是小程序全局唯一后台接口调用凭据。文档地址 请求方式为: 更多详情可以见文档。AppSecret 由于权限很大不在此文档中直接放置。 无限制二维码生成 文档地址 在获取 ac...</description>
       <category>小程序</category>
       <pubDate>Fri, 09 Oct 2020 00:00:00 GMT</pubDate>
@@ -2654,9 +2654,9 @@
     </item>
     <item>
       <title>Node.js</title>
-      <link>https://oceanusc.com/code/node-js/</link>
-      <guid>https://oceanusc.com/code/node-js/</guid>
-      <source url="https://oceanusc.com/rss.xml">Node.js</source>
+      <link>https://daiding.site/code/node-js/</link>
+      <guid>https://daiding.site/code/node-js/</guid>
+      <source url="https://daiding.site/rss.xml">Node.js</source>
       <description>Node.js 是一款全球使用广泛的框架，可以用在前端与后端上，拥有大量的模块。Node.js 主要以其丰富并及其容易导入的 Node.js package，以及其方便管理 npm (Node.js Package Manager)闻名。</description>
       <category>Node.js</category>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
@@ -2741,9 +2741,9 @@
     </item>
     <item>
       <title>模块</title>
-      <link>https://oceanusc.com/code/node-js/cjs.html</link>
-      <guid>https://oceanusc.com/code/node-js/cjs.html</guid>
-      <source url="https://oceanusc.com/rss.xml">模块</source>
+      <link>https://daiding.site/code/node-js/cjs.html</link>
+      <guid>https://daiding.site/code/node-js/cjs.html</guid>
+      <source url="https://daiding.site/rss.xml">模块</source>
       <description>在计算机程序的开发过程中，随着程序代码越写越多，在一个文件里代码就会越来越长，越来越不容易维护。 为了编写可维护的代码，我们把很多函数分组，分别放到不同的文件里，这样，每个文件包含的代码就相对较少，很多编程语言都采用这种组织代码的方式。在 Node.js 环境中，一个 .js 文件就称之为一个模块(module)。 使用模块有什么好处? 最大的好处是大...</description>
       <category>Node.js</category>
       <pubDate>Sat, 14 May 2022 00:00:00 GMT</pubDate>
@@ -2950,9 +2950,9 @@
     </item>
     <item>
       <title>搭建 Node 开发环境</title>
-      <link>https://oceanusc.com/code/node-js/environment.html</link>
-      <guid>https://oceanusc.com/code/node-js/environment.html</guid>
-      <source url="https://oceanusc.com/rss.xml">搭建 Node 开发环境</source>
+      <link>https://daiding.site/code/node-js/environment.html</link>
+      <guid>https://daiding.site/code/node-js/environment.html</guid>
+      <source url="https://daiding.site/rss.xml">搭建 Node 开发环境</source>
       <description>由于 Node.js 需要编码、运行、调试，我们需要一个 IDE 集成开发环境，这样就可以大大提升开发效率。综合考察后，oceanusc 隆重向大家推荐 Node.js 集成开发环境: Visual Studio Code。它启动速度快，执行简单，调试方便这三点上。当然，免费使用是一个加分项。</description>
       <category>Node.js</category>
       <pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate>
@@ -3006,9 +3006,9 @@
     </item>
     <item>
       <title>安装 Node.js</title>
-      <link>https://oceanusc.com/code/node-js/install.html</link>
-      <guid>https://oceanusc.com/code/node-js/install.html</guid>
-      <source url="https://oceanusc.com/rss.xml">安装 Node.js</source>
+      <link>https://daiding.site/code/node-js/install.html</link>
+      <guid>https://daiding.site/code/node-js/install.html</guid>
+      <source url="https://daiding.site/rss.xml">安装 Node.js</source>
       <description>由于 Node.js 平台是在后端运行 JavaScript 代码，所以，必须首先在本机安装 Node.js 环境。</description>
       <category>Node.js</category>
       <pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate>
@@ -3091,9 +3091,9 @@
     </item>
     <item>
       <title>Node.js</title>
-      <link>https://oceanusc.com/code/node-js/intro.html</link>
-      <guid>https://oceanusc.com/code/node-js/intro.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Node.js</source>
+      <link>https://daiding.site/code/node-js/intro.html</link>
+      <guid>https://daiding.site/code/node-js/intro.html</guid>
+      <source url="https://daiding.site/rss.xml">Node.js</source>
       <description>从本章开始，我们就正式开启 JavaScript 的后端开发之旅。 Node.js 是目前非常火热的技术，但是它的诞生经历却很奇特。</description>
       <category>Node.js</category>
       <pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate>
@@ -3138,9 +3138,9 @@
     </item>
     <item>
       <title>第一个 Node 程序</title>
-      <link>https://oceanusc.com/code/node-js/program.html</link>
-      <guid>https://oceanusc.com/code/node-js/program.html</guid>
-      <source url="https://oceanusc.com/rss.xml">第一个 Node 程序</source>
+      <link>https://daiding.site/code/node-js/program.html</link>
+      <guid>https://daiding.site/code/node-js/program.html</guid>
+      <source url="https://daiding.site/rss.xml">第一个 Node 程序</source>
       <description>在前面的所有章节中，我们编写的 JavaScript 代码都是在浏览器中运行的，因此，我们可以直接在浏览器中敲代码，然后直接运行。 从本章开始，我们编写的 JavaScript 代码将不能在浏览器环境中执行了，而是在 Node.js 环境中执行，因此，JavaScript 代码将直接在您的计算机上以命令行的方式运行，所以，我们要先选择一个文本编辑器来编...</description>
       <category>Node.js</category>
       <pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate>
@@ -3215,9 +3215,9 @@
     </item>
     <item>
       <title>React</title>
-      <link>https://oceanusc.com/code/react/</link>
-      <guid>https://oceanusc.com/code/react/</guid>
-      <source url="https://oceanusc.com/rss.xml">React</source>
+      <link>https://daiding.site/code/react/</link>
+      <guid>https://daiding.site/code/react/</guid>
+      <source url="https://daiding.site/rss.xml">React</source>
       <description>创建 React 项目 使用 create-react-app 工具。 创建普通模板: 创建 TS 模板: React 文档 官方文档 中文文档</description>
       <category>前端</category>
       <pubDate>Fri, 08 May 2020 00:00:00 GMT</pubDate>
@@ -3236,9 +3236,9 @@
     </item>
     <item>
       <title>Vue.js</title>
-      <link>https://oceanusc.com/code/vue/</link>
-      <guid>https://oceanusc.com/code/vue/</guid>
-      <source url="https://oceanusc.com/rss.xml">Vue.js</source>
+      <link>https://daiding.site/code/vue/</link>
+      <guid>https://daiding.site/code/vue/</guid>
+      <source url="https://daiding.site/rss.xml">Vue.js</source>
       <description>简介 Vue (发音为 /vjuː/，类似 view) 是一款用于构建用户界面的 JavaScript 框架。它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。无论是简单还是复杂的界面，Vue 都可以胜任。 渐进式框架 Vue 是一个框架，也是一个生态。其功能覆盖了大部分前端...</description>
       <category>基础</category>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
@@ -3297,9 +3297,9 @@
     </item>
     <item>
       <title>Vue 与小程序的异同</title>
-      <link>https://oceanusc.com/code/vue/compare.html</link>
-      <guid>https://oceanusc.com/code/vue/compare.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Vue 与小程序的异同</source>
+      <link>https://daiding.site/code/vue/compare.html</link>
+      <guid>https://daiding.site/code/vue/compare.html</guid>
+      <source url="https://daiding.site/rss.xml">Vue 与小程序的异同</source>
       <description>优缺点比较
 
 代码区别
@@ -3326,9 +3326,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>网页入门</title>
-      <link>https://oceanusc.com/code/website/</link>
-      <guid>https://oceanusc.com/code/website/</guid>
-      <source url="https://oceanusc.com/rss.xml">网页入门</source>
+      <link>https://daiding.site/code/website/</link>
+      <guid>https://daiding.site/code/website/</guid>
+      <source url="https://daiding.site/rss.xml">网页入门</source>
       <description>网页需要三件套: HTML、CSS 和 JavaScript。 HTML 定义了网页的内容 CSS 描述了网页的样式 JavaScript 编写网页的行为</description>
       <category>前端</category>
       <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
@@ -3439,9 +3439,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>JavaScript 教程</title>
-      <link>https://oceanusc.com/code/website/js.html</link>
-      <guid>https://oceanusc.com/code/website/js.html</guid>
-      <source url="https://oceanusc.com/rss.xml">JavaScript 教程</source>
+      <link>https://daiding.site/code/website/js.html</link>
+      <guid>https://daiding.site/code/website/js.html</guid>
+      <source url="https://daiding.site/rss.xml">JavaScript 教程</source>
       <description>初学者教程 JavaScript 手册 在线教程 MDN 教程 W3School 教程 菜鸟教程 ES6 ES6 是 JavaScript 的 2015 标注，现已基本被广泛使用和支持； 提示 此教程由阮一峰老师书写(真·大佬)，建议深刻理解 JavaScript 原理(一个月左右) 之后再看。</description>
       <category>JavaScript</category>
       <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
@@ -3478,9 +3478,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>Windows 简介</title>
-      <link>https://oceanusc.com/code/windows/</link>
-      <guid>https://oceanusc.com/code/windows/</guid>
-      <source url="https://oceanusc.com/rss.xml">Windows 简介</source>
+      <link>https://daiding.site/code/windows/</link>
+      <guid>https://daiding.site/code/windows/</guid>
+      <source url="https://daiding.site/rss.xml">Windows 简介</source>
       <description>以下是有关于 Windows 系统的一些基础知识。</description>
       <category>基础</category>
       <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
@@ -3490,9 +3490,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>打开命令行</title>
-      <link>https://oceanusc.com/code/windows/cmd.html</link>
-      <guid>https://oceanusc.com/code/windows/cmd.html</guid>
-      <source url="https://oceanusc.com/rss.xml">打开命令行</source>
+      <link>https://daiding.site/code/windows/cmd.html</link>
+      <guid>https://daiding.site/code/windows/cmd.html</guid>
+      <source url="https://daiding.site/rss.xml">打开命令行</source>
       <description>打开命令行 (命令提示符) 有多种方式。 运行 - cmd: Win + R 打开运行，然后敲入 cmd 后回车。 搜索 - cmd: 点击左下角搜索，输入 cmd，然后单击命令提示符。 开始菜单 - Windows 系统 - 命令提示符。 如果想要快速打开特定路径的 cmd，请打开对应的文件夹，在地址栏直接输入 cmd 并回车。</description>
       <category>基础</category>
       <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
@@ -3510,9 +3510,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>Windows 开发</title>
-      <link>https://oceanusc.com/code/windows/developers.html</link>
-      <guid>https://oceanusc.com/code/windows/developers.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Windows 开发</source>
+      <link>https://daiding.site/code/windows/developers.html</link>
+      <guid>https://daiding.site/code/windows/developers.html</guid>
+      <source url="https://daiding.site/rss.xml">Windows 开发</source>
       <description>本文主要介绍 Windows 11 系统下，与开发相关的功能。 WSL WSL 是 Windows Subsystem for Linux 的缩写，即 Windows 的 Linux 子系统。Windows 11 支持 WSL2，同时支持 wslg，即 WSL 图形化。 你可以很方便的启用 Windows For Linux 子系统，然后在 Windo...</description>
       <category>基础</category>
       <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
@@ -3543,9 +3543,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>环境变量</title>
-      <link>https://oceanusc.com/code/windows/env-variable.html</link>
-      <guid>https://oceanusc.com/code/windows/env-variable.html</guid>
-      <source url="https://oceanusc.com/rss.xml">环境变量</source>
+      <link>https://daiding.site/code/windows/env-variable.html</link>
+      <guid>https://daiding.site/code/windows/env-variable.html</guid>
+      <source url="https://daiding.site/rss.xml">环境变量</source>
       <description>以 Windows 10 系统为例，直接在左下角搜索栏中输入“系统变量” 搜索搜索 在弹出的框中点击环境变量 系统变量系统变量 如果你需要添加环境变量，直接添加即可。 如果你只是希望添加到 Path，在弹出的新窗口中找到 path，选中并点击编辑 系统变量系统变量 点击添加输入想要添加到 path 的路径或者执行文件名即可 系统变量系统变量</description>
       <category>基础</category>
       <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
@@ -3562,9 +3562,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>显示文件后缀名与隐藏文件</title>
-      <link>https://oceanusc.com/code/windows/hidden-file.html</link>
-      <guid>https://oceanusc.com/code/windows/hidden-file.html</guid>
-      <source url="https://oceanusc.com/rss.xml">显示文件后缀名与隐藏文件</source>
+      <link>https://daiding.site/code/windows/hidden-file.html</link>
+      <guid>https://daiding.site/code/windows/hidden-file.html</guid>
+      <source url="https://daiding.site/rss.xml">显示文件后缀名与隐藏文件</source>
       <description>显示文件后缀名与隐藏文件 Win11 显示隐藏的文件与文件夹Win11 显示隐藏的文件与文件夹 Win 10 显示隐藏的文件与文件夹Win 10 显示隐藏的文件与文件夹</description>
       <category>基础</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -3575,9 +3575,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>记事本的遗留问题</title>
-      <link>https://oceanusc.com/code/windows/notepad.html</link>
-      <guid>https://oceanusc.com/code/windows/notepad.html</guid>
-      <source url="https://oceanusc.com/rss.xml">记事本的遗留问题</source>
+      <link>https://daiding.site/code/windows/notepad.html</link>
+      <guid>https://daiding.site/code/windows/notepad.html</guid>
+      <source url="https://daiding.site/rss.xml">记事本的遗留问题</source>
       <description>在编写代码的时候，临时的软件选择需要注意。 请注意，绝对不能用 Word 和写字板。Word 和写字板保存的不是纯文本文件。 千万不要使用 Windows 自带的记事本编辑任何文本文件。 原因是 Microsoft 开发记事本的团队使用了一个非常弱智的行为来保存 UTF-8 编码的文件，他们自作聪明地在每个文件开头添加了几个特殊字符(UTF-8 BOM...</description>
       <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>在编写代码的时候，临时的软件选择需要注意。</p>
@@ -3593,9 +3593,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>常用快捷键</title>
-      <link>https://oceanusc.com/code/windows/shortcut-key.html</link>
-      <guid>https://oceanusc.com/code/windows/shortcut-key.html</guid>
-      <source url="https://oceanusc.com/rss.xml">常用快捷键</source>
+      <link>https://daiding.site/code/windows/shortcut-key.html</link>
+      <guid>https://daiding.site/code/windows/shortcut-key.html</guid>
+      <source url="https://daiding.site/rss.xml">常用快捷键</source>
       <description>熟练掌握各种 Windows 快捷键，能够更加高效的使用 Windows。</description>
       <category>基础</category>
       <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
@@ -3719,9 +3719,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>Windows 版本</title>
-      <link>https://oceanusc.com/code/windows/version.html</link>
-      <guid>https://oceanusc.com/code/windows/version.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Windows 版本</source>
+      <link>https://daiding.site/code/windows/version.html</link>
+      <guid>https://daiding.site/code/windows/version.html</guid>
+      <source url="https://daiding.site/rss.xml">Windows 版本</source>
       <description>简介 Microsoft Windows 操作系统是美国微软公司研发的一套操作系统，它问世于 1985 年，起初仅仅是 Microsoft-DOS 模拟环境，后续的系统版本由于微软不断的更新升级，不但易用，也当前应用最广泛的操作系统。 Windows 采用了图形化模式 GUI，比起从前的 DOS 需要输入指令使用的方式，更为人性化。随着计算机硬件和软件...</description>
       <category>基础</category>
       <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
@@ -3733,9 +3733,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>设计文章</title>
-      <link>https://oceanusc.com/design/articles/</link>
-      <guid>https://oceanusc.com/design/articles/</guid>
-      <source url="https://oceanusc.com/rss.xml">设计文章</source>
+      <link>https://daiding.site/design/articles/</link>
+      <guid>https://daiding.site/design/articles/</guid>
+      <source url="https://daiding.site/rss.xml">设计文章</source>
       <description>文章列表</description>
       <category>设计</category>
       <pubDate>Sat, 26 Sep 2020 00:00:00 GMT</pubDate>
@@ -3755,9 +3755,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>格式塔原则</title>
-      <link>https://oceanusc.com/design/articles/gestalt-principle.html</link>
-      <guid>https://oceanusc.com/design/articles/gestalt-principle.html</guid>
-      <source url="https://oceanusc.com/rss.xml">格式塔原则</source>
+      <link>https://daiding.site/design/articles/gestalt-principle.html</link>
+      <guid>https://daiding.site/design/articles/gestalt-principle.html</guid>
+      <source url="https://daiding.site/rss.xml">格式塔原则</source>
       <description>好的设计师理解心理学在视觉感知中的强大作用。当别人的目光与您的设计创作相遇时，会发生什么? 他们对您分享的信息有什么反应? 格式塔原理概述 前言 举一个场景化的栗子，大家平时逛街的时候能记住哪些广告呢? 我们虽然每天看到那么多的信息，但是真正记住的却不多。还有当我们看到复杂的事物的时候，心里会涌现不舒服的奇怪感受，有时候这种感受没有办法用语言来描述。那...</description>
       <category>设计</category>
       <pubDate>Sat, 26 Sep 2020 00:00:00 GMT</pubDate>
@@ -4026,9 +4026,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>信息流介绍</title>
-      <link>https://oceanusc.com/design/articles/infomation-flow.html</link>
-      <guid>https://oceanusc.com/design/articles/infomation-flow.html</guid>
-      <source url="https://oceanusc.com/rss.xml">信息流介绍</source>
+      <link>https://daiding.site/design/articles/infomation-flow.html</link>
+      <guid>https://daiding.site/design/articles/infomation-flow.html</guid>
+      <source url="https://daiding.site/rss.xml">信息流介绍</source>
       <description>今日头条的出现颠覆了传统新闻产品(如网易、新浪和搜狐新闻)。 传统新闻依靠着编辑人员的推荐，将新闻触达给用户，而今日头条则依靠着新闻算法，抛弃传统人工分发的思路，使分发效率数以万计的提升，其迅速崛起，成为头部新闻资讯产品。 今日头条作为新闻信息流的头部产品，里面的设计细节和设计逻辑值得我们思考和分析。 信息流样式 什么是信息流? 信息流由两部分组成，信...</description>
       <category>设计</category>
       <pubDate>Sat, 26 Sep 2020 00:00:00 GMT</pubDate>
@@ -4098,9 +4098,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>布局中的左和右</title>
-      <link>https://oceanusc.com/design/articles/left-or-right.html</link>
-      <guid>https://oceanusc.com/design/articles/left-or-right.html</guid>
-      <source url="https://oceanusc.com/rss.xml">布局中的左和右</source>
+      <link>https://daiding.site/design/articles/left-or-right.html</link>
+      <guid>https://daiding.site/design/articles/left-or-right.html</guid>
+      <source url="https://daiding.site/rss.xml">布局中的左和右</source>
       <description>左右横跳的泳道 最近经常在人人视频上看电视剧，发现人人视频在设计上有个很有意思的点。 它的电影页中有很多推荐电影片单，每个片单里有 5-12 部电影；碍于手机尺寸，用户只能看到 3 部电影；如果您对这个片单里的电影比较感兴趣，可以滑动查看更多的电影——这种横向滑动的设计又被称之为“泳道”。 泳道泳道 那么问题来了，究竟向哪个方向滑动呢? 或许您会觉得这...</description>
       <category>设计</category>
       <pubDate>Sat, 26 Sep 2020 00:00:00 GMT</pubDate>
@@ -4160,9 +4160,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>图标</title>
-      <link>https://oceanusc.com/design/icon/</link>
-      <guid>https://oceanusc.com/design/icon/</guid>
-      <source url="https://oceanusc.com/rss.xml">图标</source>
+      <link>https://daiding.site/design/icon/</link>
+      <guid>https://daiding.site/design/icon/</guid>
+      <source url="https://daiding.site/rss.xml">图标</source>
       <description>本文介绍了 UI 设计中图标的相关介绍与技巧。</description>
       <category>设计</category>
       <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
@@ -4250,9 +4250,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>图标应用</title>
-      <link>https://oceanusc.com/design/icon/apply.html</link>
-      <guid>https://oceanusc.com/design/icon/apply.html</guid>
-      <source url="https://oceanusc.com/rss.xml">图标应用</source>
+      <link>https://daiding.site/design/icon/apply.html</link>
+      <guid>https://daiding.site/design/icon/apply.html</guid>
+      <source url="https://daiding.site/rss.xml">图标应用</source>
       <description>在 UI 设计中，图标不是孤立存在的。我们学习图标的设计，不是为了画一组套图，然后上传到设计平台中分享或求赞，而是要在真实的项目中发挥作用。如果不了解图标应用到项目中的知识点，那么真实的图标设计水平就会在项目设计过程中被损耗。 所以，本章讲述工具图标在项目中应用的方法。</description>
       <category>设计</category>
       <pubDate>Mon, 14 Sep 2020 00:00:00 GMT</pubDate>
@@ -4268,9 +4268,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>装饰性图标设计</title>
-      <link>https://oceanusc.com/design/icon/decorative.html</link>
-      <guid>https://oceanusc.com/design/icon/decorative.html</guid>
-      <source url="https://oceanusc.com/rss.xml">装饰性图标设计</source>
+      <link>https://daiding.site/design/icon/decorative.html</link>
+      <guid>https://daiding.site/design/icon/decorative.html</guid>
+      <source url="https://daiding.site/rss.xml">装饰性图标设计</source>
       <description>装饰图标最主要的应用区域，集中在首页的快速入口上，也是今天多数应用中会使用的组件。下面，我们会讲解国内主流应用中的几种装饰图标的设计。</description>
       <category>设计</category>
       <pubDate>Mon, 14 Sep 2020 00:00:00 GMT</pubDate>
@@ -4358,9 +4358,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>图标绘制流程</title>
-      <link>https://oceanusc.com/design/icon/draw.html</link>
-      <guid>https://oceanusc.com/design/icon/draw.html</guid>
-      <source url="https://oceanusc.com/rss.xml">图标绘制流程</source>
+      <link>https://daiding.site/design/icon/draw.html</link>
+      <guid>https://daiding.site/design/icon/draw.html</guid>
+      <source url="https://daiding.site/rss.xml">图标绘制流程</source>
       <description>情绪板 情绪板是在执行一项设计操作之前非常重要的一个步骤，情绪板并不是像设计平台展示作品集里那样放几张图片，几个关键词，而是一套对接下来设计的一个风格走向定位。根据不同的用户人群，不同颜色的色彩情绪，不同产品的业务，将用户调研的结果，产品的背景进行总结与思考，定位接下来的设计风格。 绘制流程 选取照片 观察生活，对想画的图标进行照片实物造型的提取。图标...</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -4389,9 +4389,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>面性图标设计</title>
-      <link>https://oceanusc.com/design/icon/flour.html</link>
-      <guid>https://oceanusc.com/design/icon/flour.html</guid>
-      <source url="https://oceanusc.com/rss.xml">面性图标设计</source>
+      <link>https://daiding.site/design/icon/flour.html</link>
+      <guid>https://daiding.site/design/icon/flour.html</guid>
+      <source url="https://daiding.site/rss.xml">面性图标设计</source>
       <description>面性图标在操作中和线性图标的最大差别就在于描边和填充模式，我们知道为了满足像素对齐的要求，线性描边会在操作中产生很多不可控的因素，要用很多额外的操作步骤去弥补。在面性图标中，就不需要使用描边，并且使用相同的图标模板即可。 面性图标面性图标 下面就进入本篇的具体案例演示。 基本面性风格 使用线性图标生成面性图标使用线性图标生成面性图标 如图所示，我们使用...</description>
       <category>设计</category>
       <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
@@ -4435,9 +4435,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>图标设计指南</title>
-      <link>https://oceanusc.com/design/icon/guide.html</link>
-      <guid>https://oceanusc.com/design/icon/guide.html</guid>
-      <source url="https://oceanusc.com/rss.xml">图标设计指南</source>
+      <link>https://daiding.site/design/icon/guide.html</link>
+      <guid>https://daiding.site/design/icon/guide.html</guid>
+      <source url="https://daiding.site/rss.xml">图标设计指南</source>
       <description>图标的可用性 图标可用性，顾名思义就是图标绘制出来是否能被用户所看懂并快速识别，是否可以为业务赋能。以下是总结的四条图标绘制的评判标准。 图标绘制的评判标准图标绘制的评判标准 凸显性 用户是否能在某页面上迅速找到该图标，凸显性的目的是可以快速查找，帮助用户做选择。图标在识别的速度上远远大于文字，所以在一些页面中的重要功能使用图标的目的是为了吸引用户的注...</description>
       <category>设计</category>
       <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
@@ -4559,9 +4559,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>图标介绍</title>
-      <link>https://oceanusc.com/design/icon/intro.html</link>
-      <guid>https://oceanusc.com/design/icon/intro.html</guid>
-      <source url="https://oceanusc.com/rss.xml">图标介绍</source>
+      <link>https://daiding.site/design/icon/intro.html</link>
+      <guid>https://daiding.site/design/icon/intro.html</guid>
+      <source url="https://daiding.site/rss.xml">图标介绍</source>
       <description>图标的基本认识 图标，是一种图形化的标识，它有广义和狭义两种概念，广义指的是所有现实中有明确指向含义的图形符号，狭义主要指在计算机设备界面中的图形符号，有非常大的覆盖范围。 对于 UI 设计师而言，主要针对的就是狭义的概念，它是 UI 界面视觉组成的关键元素之一。 在当下最常见的扁平化设计风格中，界面的实际视觉组成只有 4 种元素，图片、文字、几何图形...</description>
       <category>设计</category>
       <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
@@ -4584,9 +4584,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>线性图标设计</title>
-      <link>https://oceanusc.com/design/icon/line.html</link>
-      <guid>https://oceanusc.com/design/icon/line.html</guid>
-      <source url="https://oceanusc.com/rss.xml">线性图标设计</source>
+      <link>https://daiding.site/design/icon/line.html</link>
+      <guid>https://daiding.site/design/icon/line.html</guid>
+      <source url="https://daiding.site/rss.xml">线性图标设计</source>
       <description>线性图标是所有图标中最基础的设计形式，也是最简单的入门。在我们后续设计其它的风格图标前，首先要通过练习线性图标来打下坚实的基础。</description>
       <category>设计</category>
       <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
@@ -4759,9 +4759,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>图标设计准则</title>
-      <link>https://oceanusc.com/design/icon/rule.html</link>
-      <guid>https://oceanusc.com/design/icon/rule.html</guid>
-      <source url="https://oceanusc.com/rss.xml">图标设计准则</source>
+      <link>https://daiding.site/design/icon/rule.html</link>
+      <guid>https://daiding.site/design/icon/rule.html</guid>
+      <source url="https://daiding.site/rss.xml">图标设计准则</source>
       <description>规范是图标设计的重点。</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -4855,7 +4855,7 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
 <p class="hint-container-title">栅格素材</p>
 <p>此处有一套现成的栅格素材，包含 16、24、28、32、36、48 等六个尺寸。</p>
 <ul>
-<li><a href="https://oceanusc.com/file/design/tool-grid.ai" target="_blank" rel="noopener noreferrer">工具栅格下载</a></li>
+<li><a href="https://daiding.site/file/design/tool-grid.ai" target="_blank" rel="noopener noreferrer">工具栅格下载</a></li>
 </ul>
 </div>
 <h2>像素对齐</h2>
@@ -4895,9 +4895,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>图标设计技巧</title>
-      <link>https://oceanusc.com/design/icon/skill.html</link>
-      <guid>https://oceanusc.com/design/icon/skill.html</guid>
-      <source url="https://oceanusc.com/rss.xml">图标设计技巧</source>
+      <link>https://daiding.site/design/icon/skill.html</link>
+      <guid>https://daiding.site/design/icon/skill.html</guid>
+      <source url="https://daiding.site/rss.xml">图标设计技巧</source>
       <description>图标是 UI 设计中最基础也是很重要的部分，辅助人们更好的理解功能内容。随着扁平化设计风格的普及，图标的风格越来越简约，看似简单的图形，实际要准确的表达含义，也是需要注意一些方法的。下面是是图标设计的实用技巧。 简单 一个图标一个非写实的表现。不需要担心图标不够真实，消除不必要的细节，用基本的形状只保留最基础的部分，让这个图标更容易被理解。 简单简单 ...</description>
       <category>设计</category>
       <pubDate>Mon, 14 Sep 2020 00:00:00 GMT</pubDate>
@@ -4930,9 +4930,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>学习图标所需的软件</title>
-      <link>https://oceanusc.com/design/icon/software.html</link>
-      <guid>https://oceanusc.com/design/icon/software.html</guid>
-      <source url="https://oceanusc.com/rss.xml">学习图标所需的软件</source>
+      <link>https://daiding.site/design/icon/software.html</link>
+      <guid>https://daiding.site/design/icon/software.html</guid>
+      <source url="https://daiding.site/rss.xml">学习图标所需的软件</source>
       <description>了解了图标的类型，就要开始了解做出这些图标应该使用哪些软件了。通常，UI 主要使用的设计软件包含 PS、AI、Sketch、XD 四款，理论上，它们都包含了图标绘制的功能，下面介绍这四款软件对于图标设计的优劣，以及需要掌握的部分。</description>
       <category>设计</category>
       <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
@@ -4970,9 +4970,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>启动图标设计指南</title>
-      <link>https://oceanusc.com/design/icon/start.html</link>
-      <guid>https://oceanusc.com/design/icon/start.html</guid>
-      <source url="https://oceanusc.com/rss.xml">启动图标设计指南</source>
+      <link>https://daiding.site/design/icon/start.html</link>
+      <guid>https://daiding.site/design/icon/start.html</guid>
+      <source url="https://daiding.site/rss.xml">启动图标设计指南</source>
       <description>想要在启动图标设计上入门，就要先从规范开始学习，然后了解不同的风格以及对应风格的设计过程。 启动图标的设计规范 说到启动图标的规范，首先会想到的，就是 iOS 提供的图标栅格。通过这个栅格，会规范图形的尺寸，以及所处的位置。 iOS 提供的图标栅格iOS 提供的图标栅格 这个模板和工具图标的使用方法类似，我们在后面的案例进一步讲解。接着，来说明一个更重...</description>
       <category>设计</category>
       <pubDate>Mon, 14 Sep 2020 00:00:00 GMT</pubDate>
@@ -5025,9 +5025,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>图标种类</title>
-      <link>https://oceanusc.com/design/icon/type.html</link>
-      <guid>https://oceanusc.com/design/icon/type.html</guid>
-      <source url="https://oceanusc.com/rss.xml">图标种类</source>
+      <link>https://daiding.site/design/icon/type.html</link>
+      <guid>https://daiding.site/design/icon/type.html</guid>
+      <source url="https://daiding.site/rss.xml">图标种类</source>
       <description>设计图标可以划分成三种大类: 工具图标 装饰图标 主体图标 下面将对它们分别进行介绍，以及展示相关的设计类型。</description>
       <category>设计</category>
       <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
@@ -5098,9 +5098,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>交互设计</title>
-      <link>https://oceanusc.com/design/interact/</link>
-      <guid>https://oceanusc.com/design/interact/</guid>
-      <source url="https://oceanusc.com/rss.xml">交互设计</source>
+      <link>https://daiding.site/design/interact/</link>
+      <guid>https://daiding.site/design/interact/</guid>
+      <source url="https://daiding.site/rss.xml">交互设计</source>
       <description>文章列表</description>
       <category>设计</category>
       <pubDate>Sat, 26 Sep 2020 00:00:00 GMT</pubDate>
@@ -5117,9 +5117,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>搜索框设计</title>
-      <link>https://oceanusc.com/design/interact/search.html</link>
-      <guid>https://oceanusc.com/design/interact/search.html</guid>
-      <source url="https://oceanusc.com/rss.xml">搜索框设计</source>
+      <link>https://daiding.site/design/interact/search.html</link>
+      <guid>https://daiding.site/design/interact/search.html</guid>
+      <source url="https://daiding.site/rss.xml">搜索框设计</source>
       <description>搜索框是我们最常用到的 UI 控件之一，它几乎存在于所有的网站和 APP 当中。许多人认为搜索框不需要设计，因为它似乎就是由两个最简单的元素构成的。在以内容为导向的网站中，搜索框的重要性会相对更明显，用户需要快速又无痛地找到他们想要的内容。而对于设计相对负责的网站而言，这个需求尤其明显。搜索框的可用性设计，是整个设计的关键，也就是如何让用户尽量节省时间...</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -5203,9 +5203,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>文本框设计</title>
-      <link>https://oceanusc.com/design/interact/text-field.html</link>
-      <guid>https://oceanusc.com/design/interact/text-field.html</guid>
-      <source url="https://oceanusc.com/rss.xml">文本框设计</source>
+      <link>https://daiding.site/design/interact/text-field.html</link>
+      <guid>https://daiding.site/design/interact/text-field.html</guid>
+      <source url="https://daiding.site/rss.xml">文本框设计</source>
       <description>文本框的出现几乎可以追溯到可视化交互诞生的源头，是一个再经典不过的「鼻祖」控件了。我们每天都在和文本框打交道，不论您是产品设计者还是用户。 文本框的拆解 文本框(Text Fields)根据 Material Design 指导规范，被拆解为七个部分。分别是: 文本框的拆解文本框的拆解 容器(Container) 前导图标(Leading icon) ...</description>
       <category>设计</category>
       <pubDate>Sat, 26 Sep 2020 00:00:00 GMT</pubDate>
@@ -5275,9 +5275,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>导航设计教程</title>
-      <link>https://oceanusc.com/design/navigation/</link>
-      <guid>https://oceanusc.com/design/navigation/</guid>
-      <source url="https://oceanusc.com/rss.xml">导航设计教程</source>
+      <link>https://daiding.site/design/navigation/</link>
+      <guid>https://daiding.site/design/navigation/</guid>
+      <source url="https://daiding.site/rss.xml">导航设计教程</source>
       <description>目录</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -5306,9 +5306,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>导航设计介绍</title>
-      <link>https://oceanusc.com/design/navigation/intro.html</link>
-      <guid>https://oceanusc.com/design/navigation/intro.html</guid>
-      <source url="https://oceanusc.com/rss.xml">导航设计介绍</source>
+      <link>https://daiding.site/design/navigation/intro.html</link>
+      <guid>https://daiding.site/design/navigation/intro.html</guid>
+      <source url="https://daiding.site/rss.xml">导航设计介绍</source>
       <description>其实网页或者 App 中的导航(Navigation)这个概念远不止我们熟悉的导航栏，而是一个更加广的交互概念: 引导用户和产品进行有效的交互，实现用户的目标。本文将详细地介绍界面的导航设计。 一个网页或 App 产品要想有很好的可用性(usability)，需要做好的最基本的一点是导航的设计或者说引导用户的设计。如果用户在使用一个网站或者 App 的...</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -5359,9 +5359,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>导航栏设计技巧</title>
-      <link>https://oceanusc.com/design/navigation/navbar-design.html</link>
-      <guid>https://oceanusc.com/design/navigation/navbar-design.html</guid>
-      <source url="https://oceanusc.com/rss.xml">导航栏设计技巧</source>
+      <link>https://daiding.site/design/navigation/navbar-design.html</link>
+      <guid>https://daiding.site/design/navigation/navbar-design.html</guid>
+      <source url="https://daiding.site/rss.xml">导航栏设计技巧</source>
       <description>评判导航菜单的设计好坏有多种不同的维度，由于它太过常用，它的好坏并没有得到更多重视。实际上，导航作为网站设计的一个基础组成部分，对于可用性的要求并不低。以下是一些常见的设计技巧。 超大菜单栏 超大菜单栏超大菜单栏 即使许多设计师不喜欢这样的设计，而且从美学的角度上它也是反智的，但是对于许多客户而言，它依然是一个客户反响很好的设计方案。但是这样的设计对于...</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -5408,9 +5408,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>导航栏设计</title>
-      <link>https://oceanusc.com/design/navigation/navbar.html</link>
-      <guid>https://oceanusc.com/design/navigation/navbar.html</guid>
-      <source url="https://oceanusc.com/rss.xml">导航栏设计</source>
+      <link>https://daiding.site/design/navigation/navbar.html</link>
+      <guid>https://daiding.site/design/navigation/navbar.html</guid>
+      <source url="https://daiding.site/rss.xml">导航栏设计</source>
       <description>其实网页或者 App 中的导航(Navigation)这个概念远不止我们熟悉的导航栏，而是一个更加广的交互概念: 引导用户和产品进行有效的交互，实现用户的目标。 导航栏究竟在哪里 导航栏 Navigation Bar，也简称为 Navbar。一定会有不少刚入门的 UI 新人，在诸多的 Bar 控件中，难以区分它所指代的区域。 在 iOS 上，导航栏是指...</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -5465,9 +5465,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>侧边栏导航</title>
-      <link>https://oceanusc.com/design/navigation/sidebar-navigate.html</link>
-      <guid>https://oceanusc.com/design/navigation/sidebar-navigate.html</guid>
-      <source url="https://oceanusc.com/rss.xml">侧边栏导航</source>
+      <link>https://daiding.site/design/navigation/sidebar-navigate.html</link>
+      <guid>https://daiding.site/design/navigation/sidebar-navigate.html</guid>
+      <source url="https://daiding.site/rss.xml">侧边栏导航</source>
       <description>厌倦了传统顶部导航的设计师，越来越偏爱侧边栏导航了。这种常见于页面左侧的侧边栏设计，已经成了许多独树一帜的设计师的选择了。 无处不在的侧边栏导航 侧边栏导航和菜单设计的演变有着密不可分的关系。响应式设计的流行使得向移动端偏移的网页设计，不得不采用菜单栏来替代传统的导航模式，其直接的影响就是催生了汉堡图标。 侧边栏导航侧边栏导航 随着汉堡图标的流行，弹出...</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -5525,9 +5525,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>标签导航设计技巧</title>
-      <link>https://oceanusc.com/design/navigation/tabbar-design.html</link>
-      <guid>https://oceanusc.com/design/navigation/tabbar-design.html</guid>
-      <source url="https://oceanusc.com/rss.xml">标签导航设计技巧</source>
+      <link>https://daiding.site/design/navigation/tabbar-design.html</link>
+      <guid>https://daiding.site/design/navigation/tabbar-design.html</guid>
+      <source url="https://daiding.site/rss.xml">标签导航设计技巧</source>
       <description>底部导航栏图标重要性及维度 重要性 底部导航栏的图标是路牌，承担着指路的作用，给用户指明进入产品后可以分别通往什么页面。早期的底部导航栏是单一的指路功能，经过多年的交互设计迭代后，附加了「信息展示」和「引导操作」的作用，这点会在下文中详细阐述。 三个重要评估维度 品牌调性 品牌调性决定了图标的体量感、差异化和创意延展。怎样评估图标设计能够体现出品牌调性...</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -5596,9 +5596,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>标签导航设计</title>
-      <link>https://oceanusc.com/design/navigation/tabbar.html</link>
-      <guid>https://oceanusc.com/design/navigation/tabbar.html</guid>
-      <source url="https://oceanusc.com/rss.xml">标签导航设计</source>
+      <link>https://daiding.site/design/navigation/tabbar.html</link>
+      <guid>https://daiding.site/design/navigation/tabbar.html</guid>
+      <source url="https://daiding.site/rss.xml">标签导航设计</source>
       <description>导航分很多类别，如标签导航、抽屉式导航、九宫格导航、混合组合导航、列表式导航、Tab 导航、平铺导航等等。 现在用到更多的导航其实是标签导航(tabbar)，它随处可见，相信目前大部分的 App 用的导航都是标签形式的。 理清产品框架 相信很多设计师在设计导航时，一上来就开始 YY 自己的导航要放什么，因为这个时候他已经被标签形式的导航洗脑了，认为自己...</description>
       <category>设计</category>
       <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
@@ -5650,9 +5650,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>Bash 教程</title>
-      <link>https://oceanusc.com/linux/bash/</link>
-      <guid>https://oceanusc.com/linux/bash/</guid>
-      <source url="https://oceanusc.com/rss.xml">Bash 教程</source>
+      <link>https://daiding.site/linux/bash/</link>
+      <guid>https://daiding.site/linux/bash/</guid>
+      <source url="https://daiding.site/rss.xml">Bash 教程</source>
       <description>目录</description>
       <category>Linux</category>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
@@ -5723,9 +5723,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>Bash 的算术运算</title>
-      <link>https://oceanusc.com/linux/bash/arithmetic.html</link>
-      <guid>https://oceanusc.com/linux/bash/arithmetic.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Bash 的算术运算</source>
+      <link>https://daiding.site/linux/bash/arithmetic.html</link>
+      <guid>https://daiding.site/linux/bash/arithmetic.html</guid>
+      <source url="https://daiding.site/rss.xml">Bash 的算术运算</source>
       <description>算术表达式 ((...)) 语法可以进行整数的算术运算。 ((...)) 会自动忽略内部的空格，所以下面的写法都正确，得到同样的结果。 这个语法不返回值，命令执行的结果根据算术运算的结果而定。只要算术结果不是 0，命令就算执行成功。 上面例子中，3 + 2 的结果是 5，命令就算执行成功，环境变量 $? 为 0。 如果算术结果为 0，命令就算执行失败。...</description>
       <category>Linux</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
@@ -5929,9 +5929,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>数组</title>
-      <link>https://oceanusc.com/linux/bash/array.html</link>
-      <guid>https://oceanusc.com/linux/bash/array.html</guid>
-      <source url="https://oceanusc.com/rss.xml">数组</source>
+      <link>https://daiding.site/linux/bash/array.html</link>
+      <guid>https://daiding.site/linux/bash/array.html</guid>
+      <source url="https://daiding.site/rss.xml">数组</source>
       <description>数组(array)是一个包含多个值的变量。成员的编号从 0 开始，数量没有上限，也没有要求成员被连续索引。</description>
       <category>Linux</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
@@ -6158,9 +6158,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>条件判断</title>
-      <link>https://oceanusc.com/linux/bash/condition.html</link>
-      <guid>https://oceanusc.com/linux/bash/condition.html</guid>
-      <source url="https://oceanusc.com/rss.xml">条件判断</source>
+      <link>https://daiding.site/linux/bash/condition.html</link>
+      <guid>https://daiding.site/linux/bash/condition.html</guid>
+      <source url="https://daiding.site/rss.xml">条件判断</source>
       <description>本章介绍 Bash 脚本的条件判断语法。</description>
       <category>Linux</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
@@ -6614,9 +6614,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>脚本除错</title>
-      <link>https://oceanusc.com/linux/bash/debug.html</link>
-      <guid>https://oceanusc.com/linux/bash/debug.html</guid>
-      <source url="https://oceanusc.com/rss.xml">脚本除错</source>
+      <link>https://daiding.site/linux/bash/debug.html</link>
+      <guid>https://daiding.site/linux/bash/debug.html</guid>
+      <source url="https://daiding.site/rss.xml">脚本除错</source>
       <description>本章介绍如何对 Shell 脚本除错。</description>
       <category>Linux</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
@@ -6788,9 +6788,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>Bash 的模式扩展</title>
-      <link>https://oceanusc.com/linux/bash/expansion.html</link>
-      <guid>https://oceanusc.com/linux/bash/expansion.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Bash 的模式扩展</source>
+      <link>https://daiding.site/linux/bash/expansion.html</link>
+      <guid>https://daiding.site/linux/bash/expansion.html</guid>
+      <source url="https://daiding.site/rss.xml">Bash 的模式扩展</source>
       <description>简介 Shell 接收到用户输入的命令以后，会根据空格将用户的输入，拆分成一个个词元(token)。然后，Shell 会扩展词元里面的特殊字符，扩展完成后才会调用相应的命令。 这种特殊字符的扩展，称为模式扩展(globbing)。其中有些用到通配符，又称为通配符扩展(wildcard expansion)。Bash 一共提供八种扩展。 波浪线扩展 ? ...</description>
       <category>Linux</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
@@ -7233,9 +7233,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>Bash 函数</title>
-      <link>https://oceanusc.com/linux/bash/function.html</link>
-      <guid>https://oceanusc.com/linux/bash/function.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Bash 函数</source>
+      <link>https://daiding.site/linux/bash/function.html</link>
+      <guid>https://daiding.site/linux/bash/function.html</guid>
+      <source url="https://daiding.site/rss.xml">Bash 函数</source>
       <description>本章介绍 Bash 函数的用法。</description>
       <category>Linux</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
@@ -7373,9 +7373,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>Bash 的基本语法</title>
-      <link>https://oceanusc.com/linux/bash/grammar.html</link>
-      <guid>https://oceanusc.com/linux/bash/grammar.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Bash 的基本语法</source>
+      <link>https://daiding.site/linux/bash/grammar.html</link>
+      <guid>https://daiding.site/linux/bash/grammar.html</guid>
+      <source url="https://daiding.site/rss.xml">Bash 的基本语法</source>
       <description>本章介绍 Bash 的最基本语法。</description>
       <category>Linux</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
@@ -7510,9 +7510,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
     </item>
     <item>
       <title>Bash 简介</title>
-      <link>https://oceanusc.com/linux/bash/intro.html</link>
-      <guid>https://oceanusc.com/linux/bash/intro.html</guid>
-      <source url="https://oceanusc.com/rss.xml">Bash 简介</source>
+      <link>https://daiding.site/linux/bash/intro.html</link>
+      <guid>https://daiding.site/linux/bash/intro.html</guid>
+      <source url="https://daiding.site/rss.xml">Bash 简介</source>
       <description>Bash 是 Unix 系统和 Linux 系统的一种 Shell(命令行环境)，是目前绝大多数 Linux 发行版的默认 Shell。</description>
       <category>Linux</category>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
