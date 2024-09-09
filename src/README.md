@@ -5,7 +5,7 @@ layout: BlogHome
 icon: home
 title: 主页
 heroImage: /logo.svg
-heroText: 𝓞𝓬𝓮𝓪𝓷
+heroText: 𝓞𝓬𝓮𝓪𝓷𝓾𝓼𝓬
 tagline: Where there is light, there is hope
 head:
   - - meta
@@ -29,6 +29,5 @@ projects:
     link: https://theme-hope.vuejs.press/zh/
     icon: https://theme-hope-assets.vuejs.press/logo.svg
 
-
-footer: ''
+footer: ""
 ---

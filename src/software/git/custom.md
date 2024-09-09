@@ -81,7 +81,7 @@ git config --global alias.last 'log -1'
 $ git last
 commit adca45d317e6d8a4b23f9811c3d7b7f0f180bfe2
 Merge: bd6ae48 291bea8
-Author: Mr-Hope <mister-hope@outlook.com>
+Author: Mr-Hope <oceanusc@outlook.com>
 Date:   Thu Aug 22 22:49:22 2013 +0800
 
     merge & fix hello.py

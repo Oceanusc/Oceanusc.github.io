@@ -61,7 +61,7 @@ User daemon
 Group daemon
 </IfModule>
 
-ServerAdmin mister-hope@outlook.com
+ServerAdmin oceanusc@outlook.com
 ServerName localhost
 
 <Directory />
@@ -127,14 +127,14 @@ LogLevel info
 </IfModule>
 
 <VirtualHost *:80>
-  ServerAdmin mister-hope@outlook.com
+  ServerAdmin oceanusc@outlook.com
   ServerName nenu.com
   ServerAlias innenu
   DocumentRoot "${SRVROOT}/htdocs"
 </VirtualHost>
 
 <VirtualHost *:443>
-  ServerAdmin mister-hope@outlook.com
+  ServerAdmin oceanusc@outlook.com
   ServerName mrhope.com
   ServerAlias mrhope
   DocumentRoot "${SRVROOT}/htdocs"

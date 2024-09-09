@@ -323,7 +323,7 @@ tag:
   },
 
   // 根据自己情况设置
-  "markdown-pdf.executablePath": "C:/Users/mister-hope/AppData/Local/Google/Chrome/Application/chrome.exe",
+  "markdown-pdf.executablePath": "C:/Users/oceanusc/AppData/Local/Google/Chrome/Application/chrome.exe",
 
   // XML工具设置
   "xmlTools.enforcePrettySelfClosingTagOnFormat": true,

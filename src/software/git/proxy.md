@@ -51,7 +51,7 @@ Host github.com
   User git
   Port 22
   Hostname github.com
-  # 这里在 Windows 下需要替换成实际目录，如 "C:\Users\mister-hope\.ssh\id_rsa"
+  # 这里在 Windows 下需要替换成实际目录，如 "C:\Users\oceanusc\.ssh\id_rsa"
   IdentityFile "~/.ssh/id_rsa"
   TCPKeepAlive yes
   # Ubuntu 需要安装 corkscrew
@@ -63,7 +63,7 @@ Host ssh.github.com
   User git
   Port 443
   Hostname ssh.github.com
-  # 这里在 Windows 下需要替换成实际目录，如 "C:\Users\mister-hope\.ssh\id_rsa"
+  # 这里在 Windows 下需要替换成实际目录，如 "C:\Users\oceanusc\.ssh\id_rsa"
   IdentityFile "~/.ssh/id_rsa"
   TCPKeepAlive yes
   # Ubuntu 需要安装 corkscrew

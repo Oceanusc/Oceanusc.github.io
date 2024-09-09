@@ -40,7 +40,7 @@ pull request 是请求仓库所有者拉取指定仓库分支代码的请求。
 
 ![Pull request](./assets/pull-request.png)
 
-> 这个仓库我已经删了所以显示 `unknown repository`，原为 `Mister-Hope:master`
+> 这个仓库我已经删了所以显示 `unknown repository`，原为 `oceanusc:master`
 
 这个页面允许所有人在主要对话线上交换自己的意见。
 

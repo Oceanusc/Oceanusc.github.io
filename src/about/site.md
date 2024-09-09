@@ -11,7 +11,7 @@ breadcrumb: false
 
 ## 仓库链接
 
-- [**oceanusc 的个人博客**](https://github.com/Mister-Hope/Mister-Hope.github.io)
+- [**oceanusc 的个人博客**](https://github.com/oceanusc/oceanusc.github.io)
 
 ## 版权声明
 
