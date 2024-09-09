@@ -8,7 +8,7 @@ tag:
   - 软件
 ---
 
-这是 Ocean 个人使用的 VS Code 设置，部分设置是[这里](extension.md)的插件配置
+这是 oceanusc 个人使用的 VS Code 设置，部分设置是[这里](extension.md)的插件配置
 
 将下面内容拷贝至 setting.json 以更改 VS Code 设置
 

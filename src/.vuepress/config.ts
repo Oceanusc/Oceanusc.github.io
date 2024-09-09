@@ -21,13 +21,13 @@ export default <UserConfig>defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "Ocean",
+      title: "oceanusc",
       description: "Where there is light, there is hope.",
     },
 
     "/en/": {
-      title: "My name is Ocean",
-      description: "Ocean personal blog",
+      title: "My name is oceanusc",
+      description: "oceanusc personal blog",
     },
   },
 

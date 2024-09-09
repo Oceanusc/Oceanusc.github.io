@@ -26,7 +26,7 @@ tag:
 
 ::: tip
 
-Ocean 个人推荐 `One Dark Pro` 主题和 `Material Icon Theme` 文件图标主题。
+oceanusc 个人推荐 `One Dark Pro` 主题和 `Material Icon Theme` 文件图标主题。
 
 您需要从扩展应用应用商店中安装它们。
 
@@ -78,7 +78,7 @@ Ocean 个人推荐 `One Dark Pro` 主题和 `Material Icon Theme` 文件图标�
 
   这需要安装支持字体连字的字体。FiraCode 是 VS Code 团队中流行的字体。
 
-  Ocean 也强力推荐安装并使用这一字体 (字体详见云文档共享文件)
+  oceanusc 也强力推荐安装并使用这一字体 (字体详见云文档共享文件)
 
   :::
 

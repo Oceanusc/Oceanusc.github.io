@@ -193,7 +193,7 @@ isSet: true
 
 **例**:
 
-- `"Ocean is handsome"`
+- `"oceanusc is handsome"`
 - `"春眠不觉晓，处处闻啼鸟"`
 - `"A saying goes: \"Great hopes make great man.\""`
 
@@ -210,7 +210,7 @@ Array 中文名叫数组，它是用 `[` `]` 包括起来的、用英文逗号(c
 - `[1, 2, 3]`
 - `[-5, "abc", true]`
   (在此数组中第一项是数字 `-5`，第二项是字符串 `"abc"`，第三项是布尔值 `true`，该数组是合法的，数组的元素也可以是接下来的 object)
-- `["小程序必火", "666", "Ocean有点帅"]`
+- `["小程序必火", "666", "oceanusc有点帅"]`
 
 ::: warning
 
@@ -278,6 +278,6 @@ Array 中文名叫数组，它是用 `[` `]` 包括起来的、用英文逗号(c
 
 **如**:
 
-`[{"a":"Ocean"},{"b":"Ms.Hope"}]`
+`[{"a":"oceanusc"},{"b":"Ms.Hope"}]`
 
-就是一个数组: `[ element1 , element2 ]`，而该数组的**element1**是**object**`{ "a" : "Ocean" }`，**element2**是**object**`{ "b" : "Ms.Hope" }`
+就是一个数组: `[ element1 , element2 ]`，而该数组的**element1**是**object**`{ "a" : "oceanusc" }`，**element2**是**object**`{ "b" : "Ms.Hope" }`

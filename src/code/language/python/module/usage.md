@@ -18,7 +18,7 @@ Python 本身就内置了很多非常有用的模块，只要安装完毕，这�
 
 ' a test module '
 
-__author__ = 'Ocean'
+__author__ = 'oceanusc'
 
 import sys
 
@@ -57,7 +57,7 @@ sys 模块有一个 `argv` 变量，用 list 存储了命令行的所有参数�
 
 运行 `python3 hello.py` 获得的 `sys.argv` 就是 `['hello.py']`；
 
-运行 `python3 hello.py Ocean` 获得的 `sys.argv` 就是 `['hello.py', 'Ocean']`。
+运行 `python3 hello.py oceanusc` 获得的 `sys.argv` 就是 `['hello.py', 'oceanusc']`。
 
 最后，注意到这两行代码:
 

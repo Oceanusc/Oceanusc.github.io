@@ -20,8 +20,8 @@ CSS 选择器是 CSS 规则的第一部分。它是元素和其他部分组合�
 ```html
 <img src="/logo.svg" alt="logo" style="max-width: 150px" />
 
-<p class="paragraph">Ocean is handsome!</p>
-<p id="par">Ocean is very handsome!</p>
+<p class="paragraph">oceanusc is handsome!</p>
+<p id="par">oceanusc is very handsome!</p>
 ```
 
 ```css
@@ -53,8 +53,8 @@ HTML 可以用 ID 属性来设置 ID 选择器，CSS 中 ID 选择器以 `#` 来
 ::: normal-demo ID 案例
 
 ```html
-<p>Ocean 很帅！</p>
-<p id="para1">Ocean is handsome!</p>
+<p>oceanusc 很帅！</p>
+<p id="para1">oceanusc is handsome!</p>
 ```
 
 ```css
@@ -89,10 +89,10 @@ Class 选择器在 HTML 中以 class 属性表示, 在 CSS 中，类选择器以
 ::: normal-demo Class 案例
 
 ```html
-<p>Ocean 很帅！</p>
-<p class="bold">Ocean is handsome!</p>
-<p class="bold center">Ocean is handsome!</p>
-<p class="center">Ocean is handsome!</p>
+<p>oceanusc 很帅！</p>
+<p class="bold">oceanusc is handsome!</p>
+<p class="bold center">oceanusc is handsome!</p>
+<p class="center">oceanusc is handsome!</p>
 ```
 
 ```css

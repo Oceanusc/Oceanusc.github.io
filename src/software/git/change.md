@@ -8,7 +8,7 @@ category: Git
 tag:
   - Git
   - 软件
-copyright: Copyright by 廖雪峰 Edited by Ocean
+copyright: Copyright by 廖雪峰 Edited by oceanusc
 ---
 
 ## 管理修改

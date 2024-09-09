@@ -16,7 +16,7 @@ tag:
 - :zap: `:zap:`
 - :cyclone: `:cyclone:`
 - :foggy: `:foggy:`
-- :ocean: `:ocean:`
+- :oceanusc: `:oceanusc:`
 - :cat: `:cat:`
 - :dog: `:dog:`
 - :mouse: `:mouse:`
