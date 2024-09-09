@@ -4,7 +4,7 @@
   "description": "个人博客",
   "type": "module",
   "scripts": {
-    "build:vite": "vuepress-vite build docs",
+    "build:vite": "vuepress-vite build src",
     "build:vite-debug": "cross-env DEBUG=vuepress* vuepress-vite build src",
     "build:webpack": "vuepress-webpack build src",
     "build:webpack-debug": "cross-env DEBUG=vuepress* vuepress-webpack build src",
