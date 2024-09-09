@@ -5,18 +5,19 @@ import { enSidebarConfig, zhSidebarConfig } from "./sidebar/index.js";
 
 export default hopeTheme(
   {
-    hostname: "https://oceanusc.com",
+    hostname: "https://daiding.site",
 
     author: {
       name: "oceanusc",
-      url: "https://oceanusc.com",
+      url: "https://daiding.site",
     },
 
     favicon: "/favicon.ico",
 
     iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
 
-    logo: "/logo.svg",
+    logo: "/logo.png",
+    fullscreen: true,
 
     repo: "hahaDxg/hahaDxg.github.io",
 
@@ -27,10 +28,9 @@ export default hopeTheme(
     locales: {
       "/": {
         navbar: zhNavbarConfig,
+
         sidebar: zhSidebarConfig,
 
-        footer:
-          '主题使用 <a href="https://theme-hope.vuejs.press/zh/">VuePress Theme Hope</a>',
         copyright: "基于 MIT 协议，© 2023-至今 oceanusc",
 
         blog: {
