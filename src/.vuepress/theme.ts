@@ -54,7 +54,7 @@ export default hopeTheme(
       },
       comment: {
         provider: "Giscus",
-        repo: "hahaDxg/hahaDxg.github.io",
+        repo: "Oceanusc/Oceanusc.github.io",
         repoId: "R_kgDOMtJFCA",
         category: "Announcements",
         categoryId: "DIC_kwDOMtJFCM4CiN6L",
