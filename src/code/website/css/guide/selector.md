@@ -19,8 +19,8 @@ CSS 选择器是 CSS 规则的第一部分。它是元素和其他部分组合�
 ```html
 <img src="/logo.svg" alt="logo" style="max-width: 150px" />
 
-<p class="paragraph">Ocean is handsome!</p>
-<p id="par">Ocean is very handsome!</p>
+<p class="paragraph">oceanusc is handsome!</p>
+<p id="par">oceanusc is very handsome!</p>
 ```
 
 ```css

@@ -7,7 +7,7 @@ sticky: 20
 next: ./basic/
 ---
 
-此处是 Ocean 存放的一些代码笔记。
+此处是 oceanusc 存放的一些代码笔记。
 
 <!-- more -->
 

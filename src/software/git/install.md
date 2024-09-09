@@ -121,7 +121,7 @@ tag:
    如:
 
    ```bash
-   git config --global user.name "Ocean"
+   git config --global user.name "oceanusc"
    git config --global user.email "mister-hope@outlook.com"
    ```
 

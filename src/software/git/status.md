@@ -8,7 +8,7 @@ category: Git
 tag:
   - Git
   - 软件
-copyright: Copyright by 廖雪峰 Edited by Ocean
+copyright: Copyright by 廖雪峰 Edited by oceanusc
 ---
 
 我们已经成功地添加并提交了一个 readme.txt 文件，继续修改 readme.txt 文件，改成如下内容:

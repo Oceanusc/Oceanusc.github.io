@@ -14,7 +14,7 @@
     "lint:md": "markdownlint-cli2 **/*.md",
     "test": "echo \"Warning: no test specified\" && exit 0"
   },
-  "author": "Ocean",
+  "author": "oceanusc",
   "license": "MIT",
   "keywords": [
     "vuepress",

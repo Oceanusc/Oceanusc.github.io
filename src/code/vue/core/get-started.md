@@ -54,7 +54,7 @@ order: 2
 
 ::: warning
 
-Ocean **不推荐** 新手直接使用 `vite` 或者 `webpack` 之类的 Bundler 进行上手，尤其是在您不熟悉基于 Node.js 的构建工具的情况下。
+oceanusc **不推荐** 新手直接使用 `vite` 或者 `webpack` 之类的 Bundler 进行上手，尤其是在您不熟悉基于 Node.js 的构建工具的情况下。
 
 请使用 CDN 的方式引入 Vue，并充分熟悉 Vue 的基础知识后再引入 Bundler。
 

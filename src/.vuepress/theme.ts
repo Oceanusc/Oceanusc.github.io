@@ -8,7 +8,7 @@ export default hopeTheme(
     hostname: "https://mister-hope.com",
 
     author: {
-      name: "Ocean",
+      name: "oceanusc",
       url: "https://mister-hope.com",
     },
 
@@ -18,7 +18,7 @@ export default hopeTheme(
 
     logo: "/logo.svg",
 
-    repo: "Mister-Hope/Mister-Hope.github.io",
+    repo: "hahaDxg/hahaDxg.github.io",
 
     repoDisplay: false,
 
@@ -31,7 +31,7 @@ export default hopeTheme(
 
         footer:
           '主题使用 <a href="https://theme-hope.vuejs.press/zh/">VuePress Theme Hope</a>',
-        copyright: "基于 MIT 协议，© 2023-至今 Ocean",
+        copyright: "基于 MIT 协议，© 2023-至今 oceanusc",
 
         blog: {
           description: "一个前端开发者",
@@ -54,7 +54,7 @@ export default hopeTheme(
     },
 
     displayFooter: true,
-    copyright: "Copyright © 2023-present Ocean",
+    copyright: "Copyright © 2023-present oceanusc",
 
     plugins: {
       searchPro: true,
@@ -106,9 +106,9 @@ export default hopeTheme(
           color: "#ffffff",
         },
         manifest: {
-          name: "Ocean 的个人博客",
-          short_name: "Ocean Blog",
-          description: "Ocean 的个人博客",
+          name: "oceanusc 的个人博客",
+          short_name: "oceanusc Blog",
+          description: "oceanusc 的个人博客",
           theme_color: "#5c92d1",
           icons: [
             {

@@ -14,7 +14,7 @@ prev: ../intro/media.html
 ::: normal-demo 正常布局流
 
 ```html
-<p>Ocean 很帅</p>
+<p>oceanusc 很帅</p>
 <ul>
   <li>HTML</li>
   <li>CSS</li>

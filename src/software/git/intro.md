@@ -3,12 +3,12 @@ date: 2020-05-05
 title: Git 介绍
 icon: creative
 order: 2
-author: Ocean & 廖雪峰
+author: oceanusc & 廖雪峰
 category: Git
 tag:
   - Git
   - 软件
-copyright: Copyright by 廖雪峰 Edited by Ocean
+copyright: Copyright by 廖雪峰 Edited by oceanusc
 ---
 
 Git 是什么?
