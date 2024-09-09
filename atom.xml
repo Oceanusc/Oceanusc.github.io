@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://oceanusc.com/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://daiding.site/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://oceanusc.com/</id>
+  <id>https://daiding.site/</id>
   <title>oceanusc</title>
   <subtitle>Where there is light, there is hope.</subtitle>
-  <icon>https://oceanusc.com/favicon.ico</icon>
+  <icon>https://daiding.site/favicon.ico</icon>
   <rights>基于 MIT 协议，© 2023-至今 oceanusc</rights>
-  <updated>2024-09-09T08:02:02.301Z</updated>
+  <updated>2024-09-09T08:48:06.609Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://oceanusc.com/atom.xml"/>
-  <link rel="alternate" href="https://oceanusc.com/"/>
+  <link rel="self" href="https://daiding.site/atom.xml"/>
+  <link rel="alternate" href="https://daiding.site/"/>
   <category term="设计"/>
   <category term="硬件"/>
   <category term="Linux"/>
@@ -35,15 +35,15 @@
   </contributor>
   <entry>
     <title type="text">oceanusc 介绍</title>
-    <id>https://oceanusc.com/about/</id>
-    <link href="https://oceanusc.com/about/"/>
+    <id>https://daiding.site/about/</id>
+    <link href="https://daiding.site/about/"/>
     <updated>2024-09-09T07:43:42.000Z</updated>
     <published>2022-01-07T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">代码笔记</title>
-    <id>https://oceanusc.com/code/</id>
-    <link href="https://oceanusc.com/code/"/>
+    <id>https://daiding.site/code/</id>
+    <link href="https://daiding.site/code/"/>
     <updated>2024-09-09T07:11:46.000Z</updated>
     <summary type="html"><![CDATA[<p>此处是 oceanusc 存放的一些代码笔记。</p>
 ]]></summary>
@@ -146,8 +146,8 @@
   </entry>
   <entry>
     <title type="text">APP 组件设计规范</title>
-    <id>https://oceanusc.com/design/APP.html</id>
-    <link href="https://oceanusc.com/design/APP.html"/>
+    <id>https://daiding.site/design/APP.html</id>
+    <link href="https://daiding.site/design/APP.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本文对应用程序设计中常见的组件及其作用进行了介绍。</p>
 ]]></summary>
@@ -241,8 +241,8 @@
   </entry>
   <entry>
     <title type="text">UI 设计</title>
-    <id>https://oceanusc.com/design/</id>
-    <link href="https://oceanusc.com/design/"/>
+    <id>https://daiding.site/design/</id>
+    <link href="https://daiding.site/design/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本文列出了一些 UI 设计相关的资源。</p>
 ]]></summary>
@@ -302,8 +302,8 @@
   </entry>
   <entry>
     <title type="text">机械硬盘</title>
-    <id>https://oceanusc.com/hardware/HDD.html</id>
-    <link href="https://oceanusc.com/hardware/HDD.html"/>
+    <id>https://daiding.site/hardware/HDD.html</id>
+    <link href="https://daiding.site/hardware/HDD.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>现代计算机大部分文件存储功能都是由机械硬盘这种设备提供的。(现在的 SSD 和闪存从概念和逻辑上都部分继承自机械硬盘，所以使用机械硬盘来进行理解也是没有问题的)</p>
 <p>机械硬盘能实现信息存储的功能基于: 磁性存储介质能够被磁化，且磁化后会长久保留被磁化的状态，这种被磁化状态能够被读取出来，同时这种磁化状态还能够不断被修改，磁化正好有两个方向，所以可以表示 0 和 1。
@@ -339,8 +339,8 @@
   </entry>
   <entry>
     <title type="text">硬件相关</title>
-    <id>https://oceanusc.com/hardware/</id>
-    <link href="https://oceanusc.com/hardware/"/>
+    <id>https://daiding.site/hardware/</id>
+    <link href="https://daiding.site/hardware/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>这里是一些常见的硬件相关的问题总结，供访客查阅。</p>
 ]]></summary>
@@ -351,8 +351,8 @@
   </entry>
   <entry>
     <title type="text">CPU 的架构</title>
-    <id>https://oceanusc.com/hardware/structure.html</id>
-    <link href="https://oceanusc.com/hardware/structure.html"/>
+    <id>https://daiding.site/hardware/structure.html</id>
+    <link href="https://daiding.site/hardware/structure.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>CPU 内部已经含有一些微指令，我们所使用的软件都要经过 CPU 内部的微指令集来达成才行。那这些指令集的设计主要又被分为两种设计理念，这就是目前世界上常见到的两种主要 CPU 架构，分别是: 精简指令集(RISC)与复杂指令集(CISC) 系统。</p>
 <h2>精简指令集</h2>
@@ -376,8 +376,8 @@
   </entry>
   <entry>
     <title type="text">Linux</title>
-    <id>https://oceanusc.com/linux/</id>
-    <link href="https://oceanusc.com/linux/"/>
+    <id>https://daiding.site/linux/</id>
+    <link href="https://daiding.site/linux/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>Linux 教程</h2>
 <ul>
@@ -529,8 +529,8 @@
   </entry>
   <entry>
     <title type="text">WSL</title>
-    <id>https://oceanusc.com/linux/WSL.html</id>
-    <link href="https://oceanusc.com/linux/WSL.html"/>
+    <id>https://daiding.site/linux/WSL.html</id>
+    <link href="https://daiding.site/linux/WSL.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>WSL 可以直接在 Windows 系统上安装并运行 Linux。目前最新的版本是 WSL2。</p>
 ]]></summary>
@@ -551,8 +551,8 @@
   </entry>
   <entry>
     <title type="text">CentOS 教程</title>
-    <id>https://oceanusc.com/linux/centos.html</id>
-    <link href="https://oceanusc.com/linux/centos.html"/>
+    <id>https://daiding.site/linux/centos.html</id>
+    <link href="https://daiding.site/linux/centos.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>管理工具</h2>
 <ul>
@@ -585,8 +585,8 @@
   </entry>
   <entry>
     <title type="text">ssh</title>
-    <id>https://oceanusc.com/linux/ssh.html</id>
-    <link href="https://oceanusc.com/linux/ssh.html"/>
+    <id>https://daiding.site/linux/ssh.html</id>
+    <link href="https://daiding.site/linux/ssh.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>使用密码登录</h2>
 <ol>
@@ -640,8 +640,8 @@
   </entry>
   <entry>
     <title type="text">微分方程</title>
-    <id>https://oceanusc.com/math/differential-equation.html</id>
-    <link href="https://oceanusc.com/math/differential-equation.html"/>
+    <id>https://daiding.site/math/differential-equation.html</id>
+    <link href="https://daiding.site/math/differential-equation.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>概念</h2>
 <ul>
@@ -708,8 +708,8 @@
   </entry>
   <entry>
     <title type="text">软件教程</title>
-    <id>https://oceanusc.com/software/</id>
-    <link href="https://oceanusc.com/software/"/>
+    <id>https://daiding.site/software/</id>
+    <link href="https://daiding.site/software/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>代码编辑器</h2>
 <ul>
@@ -775,8 +775,8 @@
   </entry>
   <entry>
     <title type="text">Apache</title>
-    <id>https://oceanusc.com/software/apache.html</id>
-    <link href="https://oceanusc.com/software/apache.html"/>
+    <id>https://daiding.site/software/apache.html</id>
+    <link href="https://daiding.site/software/apache.html"/>
     <updated>2024-09-09T07:43:42.000Z</updated>
     <summary type="html"><![CDATA[<p>Apache 是世界使用排名第一的 Web 服务器软件。它可以运行在几乎所有广泛使用的计算机平台上，由于其跨平台和安全性被广泛使用，是最流行的 Web 服务器端软件之一。它快速、可靠并且可通过简单的 API 扩充，将 Perl/Python 等解释器编译到服务器中。</p>
 ]]></summary>
@@ -940,8 +940,8 @@
   </entry>
   <entry>
     <title type="text">Chrome</title>
-    <id>https://oceanusc.com/software/chrome.html</id>
-    <link href="https://oceanusc.com/software/chrome.html"/>
+    <id>https://daiding.site/software/chrome.html</id>
+    <link href="https://daiding.site/software/chrome.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>Chrome 是谷歌出品的浏览器。其内核使用 Chromium，基于 JavaScript V8，是全球比例最大的浏览器内核。</p>
 ]]></summary>
@@ -994,8 +994,8 @@
   </entry>
   <entry>
     <title type="text">代码编辑器</title>
-    <id>https://oceanusc.com/software/editor.html</id>
-    <link href="https://oceanusc.com/software/editor.html"/>
+    <id>https://daiding.site/software/editor.html</id>
+    <link href="https://daiding.site/software/editor.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<ul>
 <li>
@@ -1060,8 +1060,8 @@
   </entry>
   <entry>
     <title type="text">Nginx</title>
-    <id>https://oceanusc.com/software/nginx.html</id>
-    <link href="https://oceanusc.com/software/nginx.html"/>
+    <id>https://daiding.site/software/nginx.html</id>
+    <link href="https://daiding.site/software/nginx.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>Nginx 是一个高性能的 HTTP 和反向代理服务器，也是一个 IMAP / POP3 / SMTP 代理服务器。其特点是占有内存少，并发能力强，稳定性高，并且 Nginx 也拥有友好灵活的配置。</p>
 ]]></summary>
@@ -1180,8 +1180,8 @@
   </entry>
   <entry>
     <title type="text">Postman</title>
-    <id>https://oceanusc.com/software/postman.html</id>
-    <link href="https://oceanusc.com/software/postman.html"/>
+    <id>https://daiding.site/software/postman.html</id>
+    <link href="https://daiding.site/software/postman.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>Postman 是一个强大的抓包与网络调试工具。</p>
 ]]></summary>
@@ -1191,8 +1191,8 @@
   </entry>
   <entry>
     <title type="text">应用基础知识</title>
-    <id>https://oceanusc.com/code/android/base.html</id>
-    <link href="https://oceanusc.com/code/android/base.html"/>
+    <id>https://daiding.site/code/android/base.html</id>
+    <link href="https://daiding.site/code/android/base.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本章包含了一些关于 Android 开发的基础内容。</p>
 ]]></summary>
@@ -1281,8 +1281,8 @@
   </entry>
   <entry>
     <title type="text">应用资源概览</title>
-    <id>https://oceanusc.com/code/android/resource.html</id>
-    <link href="https://oceanusc.com/code/android/resource.html"/>
+    <id>https://daiding.site/code/android/resource.html</id>
+    <link href="https://daiding.site/code/android/resource.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>资源是指代码使用的附加文件和静态内容，例如位图、布局定义、界面字符串、动画说明等。</p>
 ]]></summary>
@@ -1315,8 +1315,8 @@
   </entry>
   <entry>
     <title type="text">Angular</title>
-    <id>https://oceanusc.com/code/angular/</id>
-    <link href="https://oceanusc.com/code/angular/"/>
+    <id>https://daiding.site/code/angular/</id>
+    <link href="https://daiding.site/code/angular/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>Angular 是 Google 官方在 2016 年 9 月出品的一款框架。</p>
 <p>框架强制 Typescript，更倾向于大型项目。</p>
@@ -1353,8 +1353,8 @@
   </entry>
   <entry>
     <title type="text">后端开发</title>
-    <id>https://oceanusc.com/code/back-end/</id>
-    <link href="https://oceanusc.com/code/back-end/"/>
+    <id>https://daiding.site/code/back-end/</id>
+    <link href="https://daiding.site/code/back-end/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>后端入门</h2>
 <div class="hint-container warning">
@@ -1409,8 +1409,8 @@
   </entry>
   <entry>
     <title type="text">基础介绍</title>
-    <id>https://oceanusc.com/code/basic/</id>
-    <link href="https://oceanusc.com/code/basic/"/>
+    <id>https://daiding.site/code/basic/</id>
+    <link href="https://daiding.site/code/basic/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>这些是一些最为基础的内容，是后来补充进博客中的，供访客查阅。</p>
 ]]></summary>
@@ -1422,8 +1422,8 @@
   </entry>
   <entry>
     <title type="text">持续集成</title>
-    <id>https://oceanusc.com/code/basic/ci.html</id>
-    <link href="https://oceanusc.com/code/basic/ci.html"/>
+    <id>https://daiding.site/code/basic/ci.html</id>
+    <link href="https://daiding.site/code/basic/ci.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>持续集成 (Continuous Integration) 指的是，频繁地 (一天多次) 将代码集成到主干，每次集成都通过自动化的构建 (包括编译，发布，自动化测试) 来验证，从而尽早地发现集成错误。</p>
 <p>持续集成的目的让产品可以快速迭代，同时还能保持高质量。就是说每完成一个完整的部分，就向下个环节交付，发现问题可以马上调整，使得问题不会放大到其他部分和后面的环节。</p>
@@ -1455,8 +1455,8 @@
   </entry>
   <entry>
     <title type="text">计算机</title>
-    <id>https://oceanusc.com/code/basic/computer.html</id>
-    <link href="https://oceanusc.com/code/basic/computer.html"/>
+    <id>https://daiding.site/code/basic/computer.html</id>
+    <link href="https://daiding.site/code/basic/computer.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>计算机是一台机器，它按照用户的要求接收信息、存储数据、处理数据，然后再将处理结果输出(文字、图片、音频、视频等)。</p>
 <p>计算机的核心就是: 接受使用者输入指令与资料，经由中央处理器的数学与逻辑单元运算处理后，以产生或储存成有用的资讯。</p>
@@ -1489,8 +1489,8 @@
   </entry>
   <entry>
     <title type="text">开发简介</title>
-    <id>https://oceanusc.com/code/basic/debug.html</id>
-    <link href="https://oceanusc.com/code/basic/debug.html"/>
+    <id>https://daiding.site/code/basic/debug.html</id>
+    <link href="https://daiding.site/code/basic/debug.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>开发是根据用户要求建造出合理程序的过程。过程一般是用某种程序设计语言来实现的。通常采用开发工具可以进行开发。</p>
 ]]></summary>
@@ -1544,8 +1544,8 @@
   </entry>
   <entry>
     <title type="text">计算机编码介绍</title>
-    <id>https://oceanusc.com/code/basic/encoding.html</id>
-    <link href="https://oceanusc.com/code/basic/encoding.html"/>
+    <id>https://daiding.site/code/basic/encoding.html</id>
+    <link href="https://daiding.site/code/basic/encoding.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>计算机，不能直接存储文字，存储的是编码。</p>
 <p>计算机只能处理二进制的数据，也就是说计算机只能处理数字。如果要处理文本，比如: <code>0-9</code>、<code>a-z</code>、<code>A-Z</code>，就必须先把文本转换为数字才能处理。对于这些字符，可以定义一套规则来显示，比如: <code>A</code> 用 <code>110</code> 表示，<code>B</code> 用 <code>111</code> 表示等。</p>
@@ -1575,8 +1575,8 @@
   </entry>
   <entry>
     <title type="text">文件名与文件扩展名</title>
-    <id>https://oceanusc.com/code/basic/file-extension.html</id>
-    <link href="https://oceanusc.com/code/basic/file-extension.html"/>
+    <id>https://daiding.site/code/basic/file-extension.html</id>
+    <link href="https://daiding.site/code/basic/file-extension.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>文件名</h2>
 <p>文件名就是文件的名称，是为了方便人们区分计算机中的不同文件，而给每个文件设定一个指定的名称。</p>
@@ -1608,8 +1608,8 @@
   </entry>
   <entry>
     <title type="text">Glob</title>
-    <id>https://oceanusc.com/code/basic/glob.html</id>
-    <link href="https://oceanusc.com/code/basic/glob.html"/>
+    <id>https://daiding.site/code/basic/glob.html</id>
+    <link href="https://daiding.site/code/basic/glob.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本文介绍 Glob 匹配。</p>
 ]]></summary>
@@ -1679,8 +1679,8 @@
   </entry>
   <entry>
     <title type="text">开源协议</title>
-    <id>https://oceanusc.com/code/basic/license.html</id>
-    <link href="https://oceanusc.com/code/basic/license.html"/>
+    <id>https://daiding.site/code/basic/license.html</id>
+    <link href="https://daiding.site/code/basic/license.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>开源软件在追求“自由”的同时，不能牺牲程序员的利益，否则将会影响程序员的创造激情，因此世界上现在有 60 多种被开源促进组织 (Open Source Initiative) 认可的开源许可协议来保证开源工作者的权益。</p>
 <p>开源协议规定了您在使用开源软件时的权利和责任，也就是规定了您可以做什么，不可以做什么。</p>
@@ -1764,8 +1764,8 @@
   </entry>
   <entry>
     <title type="text">开源与免费</title>
-    <id>https://oceanusc.com/code/basic/open-source-and-free.html</id>
-    <link href="https://oceanusc.com/code/basic/open-source-and-free.html"/>
+    <id>https://daiding.site/code/basic/open-source-and-free.html</id>
+    <link href="https://daiding.site/code/basic/open-source-and-free.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>开源软件和免费软件是两个概念:</p>
 <ul>
@@ -1857,8 +1857,8 @@
   </entry>
   <entry>
     <title type="text">操作系统</title>
-    <id>https://oceanusc.com/code/basic/os.html</id>
-    <link href="https://oceanusc.com/code/basic/os.html"/>
+    <id>https://daiding.site/code/basic/os.html</id>
+    <link href="https://daiding.site/code/basic/os.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>操作系统 (Operating System，OS) 是软件的一部分，它是硬件基础上的第一层软件，是硬件和其它软件沟通的桥梁(或者说接口、中间人、中介等)。</p>
 ]]></summary>
@@ -1892,8 +1892,8 @@
   </entry>
   <entry>
     <title type="text">路径</title>
-    <id>https://oceanusc.com/code/basic/path.html</id>
-    <link href="https://oceanusc.com/code/basic/path.html"/>
+    <id>https://daiding.site/code/basic/path.html</id>
+    <link href="https://daiding.site/code/basic/path.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>无论是我们想直接访问一个文件，还是在一个文件中希望访问另一个文件，都涉及到一个获取文件的操作。而无论是在 Windows 中还是在 Linux 中，文件的具体位置都用文档的路径标注。</p>
 <p>路径常常涉及到物理路径，相对路径，绝对路径，根目录的概念，现加以说明。</p>
@@ -1957,8 +1957,8 @@
   </entry>
   <entry>
     <title type="text">GitHub</title>
-    <id>https://oceanusc.com/code/github/</id>
-    <link href="https://oceanusc.com/code/github/"/>
+    <id>https://daiding.site/code/github/</id>
+    <link href="https://daiding.site/code/github/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>快速上手</h2>
 ]]></summary>
@@ -1969,8 +1969,8 @@
   </entry>
   <entry>
     <title type="text">自动部署</title>
-    <id>https://oceanusc.com/code/github/deploy.html</id>
-    <link href="https://oceanusc.com/code/github/deploy.html"/>
+    <id>https://daiding.site/code/github/deploy.html</id>
+    <link href="https://daiding.site/code/github/deploy.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本文介绍如何利用 Git 和 GitHub Action，自动部署代码到服务器。</p>
 ]]></summary>
@@ -2125,8 +2125,8 @@
   </entry>
   <entry>
     <title type="text">GitHub 简介</title>
-    <id>https://oceanusc.com/code/github/intro.html</id>
-    <link href="https://oceanusc.com/code/github/intro.html"/>
+    <id>https://daiding.site/code/github/intro.html</id>
+    <link href="https://daiding.site/code/github/intro.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2><s>Gayhub</s> GitHub 是世界上最大的 <s>同性交友</s> 代码托管网站</h2>
 <p>😋 当然在上面交友也是极好的(这是重点，圈起来要考的😎)。</p>
@@ -2201,8 +2201,8 @@
   </entry>
   <entry>
     <title type="text">GitHub Pages</title>
-    <id>https://oceanusc.com/code/github/pages.html</id>
-    <link href="https://oceanusc.com/code/github/pages.html"/>
+    <id>https://daiding.site/code/github/pages.html</id>
+    <link href="https://daiding.site/code/github/pages.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>GitHub Pages 是静态站点托管服务，可直接从 GitHub 上的存储库中获取 HTML，CSS 和 JavaScript 文件，还可以选择在构建过程中运行这些文件并发布网站。</p>
 <p>您可以将站点托管在 GitHub 的 <code>github.io</code> 域名或您自己的自定义域名上。</p>
@@ -2275,8 +2275,8 @@
   </entry>
   <entry>
     <title type="text">Pull Request</title>
-    <id>https://oceanusc.com/code/github/pr.html</id>
-    <link href="https://oceanusc.com/code/github/pr.html"/>
+    <id>https://daiding.site/code/github/pr.html</id>
+    <link href="https://daiding.site/code/github/pr.html"/>
     <updated>2024-09-09T07:43:42.000Z</updated>
     <summary type="html"><![CDATA[<h2>简介</h2>
 <p>对于一个用户的公开仓库，在默认情况下虽然其他用户可以拉取该库的代码，但是他们并不能够直接向这个库进行推送。</p>
@@ -2326,8 +2326,8 @@
   </entry>
   <entry>
     <title type="text">语义化提交</title>
-    <id>https://oceanusc.com/code/github/semantic.html</id>
-    <link href="https://oceanusc.com/code/github/semantic.html"/>
+    <id>https://daiding.site/code/github/semantic.html</id>
+    <link href="https://daiding.site/code/github/semantic.html"/>
     <updated>2024-09-09T07:43:42.000Z</updated>
     <summary type="html"><![CDATA[<h2>Semantic</h2>
 <p>对于一个大型项目，几千个 commit 是很常见的，这些 commit 部分是项目维护者提交的 commit，部分是一些热心的开发者通过 PR 贡献的。</p>
@@ -2391,8 +2391,8 @@
   </entry>
   <entry>
     <title type="text">加速 GitHub 克隆</title>
-    <id>https://oceanusc.com/code/github/speedup.html</id>
-    <link href="https://oceanusc.com/code/github/speedup.html"/>
+    <id>https://daiding.site/code/github/speedup.html</id>
+    <link href="https://daiding.site/code/github/speedup.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>由于 GFW 的存在，GitHub 的访问速度在大部分国内地区都很慢，甚至不稳定。如果需要克隆体积比较大的项目，可能需要很长时间，也很大概率会在中途因为网络波动、终端问题导致克隆失败。</p>
 <p>本文介绍如何使用 Gitee 加快 GitHub 项目克隆。</p>
@@ -2425,8 +2425,8 @@
   </entry>
   <entry>
     <title type="text">GitHub Token</title>
-    <id>https://oceanusc.com/code/github/token.html</id>
-    <link href="https://oceanusc.com/code/github/token.html"/>
+    <id>https://daiding.site/code/github/token.html</id>
+    <link href="https://daiding.site/code/github/token.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>Personal Access Token (PAT)，又称个人访问令牌，是一种代替密码进行 GitHub 身份认证的方式。</p>
 <p>通常情况下，你可能需要在 GitHub Workflow 中使用 PAT，以便在 GitHub Actions 中使用需要授权的 GitHub API。</p>
@@ -2456,8 +2456,8 @@
   </entry>
   <entry>
     <title type="text">代码学习教程</title>
-    <id>https://oceanusc.com/code/language/</id>
-    <link href="https://oceanusc.com/code/language/"/>
+    <id>https://daiding.site/code/language/</id>
+    <link href="https://daiding.site/code/language/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<ul>
 <li><a href="/code/language/learning.html" target="_blank">如何学习一门语言</a></li>
@@ -2527,8 +2527,8 @@
   </entry>
   <entry>
     <title type="text">如何学习一门计算机语言</title>
-    <id>https://oceanusc.com/code/language/learning.html</id>
-    <link href="https://oceanusc.com/code/language/learning.html"/>
+    <id>https://daiding.site/code/language/learning.html</id>
+    <link href="https://daiding.site/code/language/learning.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container tip">
@@ -2670,8 +2670,8 @@
   </entry>
   <entry>
     <title type="text">小程序</title>
-    <id>https://oceanusc.com/code/mini-app/</id>
-    <link href="https://oceanusc.com/code/mini-app/"/>
+    <id>https://daiding.site/code/mini-app/</id>
+    <link href="https://daiding.site/code/mini-app/"/>
     <updated>2024-09-09T07:11:46.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">提示</p>
@@ -2917,8 +2917,8 @@
   </entry>
   <entry>
     <title type="text">小程序分享</title>
-    <id>https://oceanusc.com/code/mini-app/qr-code.html</id>
-    <link href="https://oceanusc.com/code/mini-app/qr-code.html"/>
+    <id>https://daiding.site/code/mini-app/qr-code.html</id>
+    <link href="https://daiding.site/code/mini-app/qr-code.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>二维码生成</h2>
 <p>目前小程序二维码生成选用的是<a href="https://developers.weixin.qq.com/miniprogram/dev/api-backend/open-api/qr-code/wxacode.getUnlimited.html" target="_blank" rel="noopener noreferrer">无限制生成二维码</a>。</p>
@@ -2957,8 +2957,8 @@
   </entry>
   <entry>
     <title type="text">Node.js</title>
-    <id>https://oceanusc.com/code/node-js/</id>
-    <link href="https://oceanusc.com/code/node-js/"/>
+    <id>https://daiding.site/code/node-js/</id>
+    <link href="https://daiding.site/code/node-js/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>Node.js 是一款全球使用广泛的框架，可以用在前端与后端上，拥有大量的模块。Node.js 主要以其丰富并及其容易导入的 Node.js package，以及其方便管理 npm (Node.js Package Manager)闻名。</p>
 ]]></summary>
@@ -3045,8 +3045,8 @@
   </entry>
   <entry>
     <title type="text">模块</title>
-    <id>https://oceanusc.com/code/node-js/cjs.html</id>
-    <link href="https://oceanusc.com/code/node-js/cjs.html"/>
+    <id>https://daiding.site/code/node-js/cjs.html</id>
+    <link href="https://daiding.site/code/node-js/cjs.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>在计算机程序的开发过程中，随着程序代码越写越多，在一个文件里代码就会越来越长，越来越不容易维护。</p>
 <p>为了编写可维护的代码，我们把很多函数分组，分别放到不同的文件里，这样，每个文件包含的代码就相对较少，很多编程语言都采用这种组织代码的方式。在 Node.js 环境中，一个 <code>.js</code> 文件就称之为一个模块(module)。</p>
@@ -3259,8 +3259,8 @@
   </entry>
   <entry>
     <title type="text">搭建 Node 开发环境</title>
-    <id>https://oceanusc.com/code/node-js/environment.html</id>
-    <link href="https://oceanusc.com/code/node-js/environment.html"/>
+    <id>https://daiding.site/code/node-js/environment.html</id>
+    <link href="https://daiding.site/code/node-js/environment.html"/>
     <updated>2024-09-09T07:11:46.000Z</updated>
     <summary type="html"><![CDATA[<p>由于 Node.js 需要编码、运行、调试，我们需要一个 IDE 集成开发环境，这样就可以大大提升开发效率。综合考察后，oceanusc 隆重向大家推荐 Node.js 集成开发环境: <strong>Visual Studio Code</strong>。它启动速度快，执行简单，调试方便这三点上。当然，免费使用是一个加分项。</p>
 ]]></summary>
@@ -3316,8 +3316,8 @@
   </entry>
   <entry>
     <title type="text">安装 Node.js</title>
-    <id>https://oceanusc.com/code/node-js/install.html</id>
-    <link href="https://oceanusc.com/code/node-js/install.html"/>
+    <id>https://daiding.site/code/node-js/install.html</id>
+    <link href="https://daiding.site/code/node-js/install.html"/>
     <updated>2024-09-09T07:11:46.000Z</updated>
     <summary type="html"><![CDATA[<p>由于 Node.js 平台是在后端运行 JavaScript 代码，所以，必须首先在本机安装 Node.js 环境。</p>
 ]]></summary>
@@ -3402,8 +3402,8 @@
   </entry>
   <entry>
     <title type="text">Node.js</title>
-    <id>https://oceanusc.com/code/node-js/intro.html</id>
-    <link href="https://oceanusc.com/code/node-js/intro.html"/>
+    <id>https://daiding.site/code/node-js/intro.html</id>
+    <link href="https://daiding.site/code/node-js/intro.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>从本章开始，我们就正式开启 JavaScript 的后端开发之旅。</p>
 <p>Node.js 是目前非常火热的技术，但是它的诞生经历却很奇特。</p>
@@ -3451,8 +3451,8 @@
   </entry>
   <entry>
     <title type="text">第一个 Node 程序</title>
-    <id>https://oceanusc.com/code/node-js/program.html</id>
-    <link href="https://oceanusc.com/code/node-js/program.html"/>
+    <id>https://daiding.site/code/node-js/program.html</id>
+    <link href="https://daiding.site/code/node-js/program.html"/>
     <updated>2024-09-09T07:11:46.000Z</updated>
     <summary type="html"><![CDATA[<p>在前面的所有章节中，我们编写的 JavaScript 代码都是在浏览器中运行的，因此，我们可以直接在浏览器中敲代码，然后直接运行。</p>
 <p>从本章开始，我们编写的 JavaScript 代码将不能在浏览器环境中执行了，而是在 Node.js 环境中执行，因此，JavaScript 代码将直接在您的计算机上以命令行的方式运行，所以，我们要先选择一个文本编辑器来编写 JavaScript 代码，并且把它保存到本地硬盘的某个目录，才能够执行。</p>
@@ -3530,8 +3530,8 @@
   </entry>
   <entry>
     <title type="text">React</title>
-    <id>https://oceanusc.com/code/react/</id>
-    <link href="https://oceanusc.com/code/react/"/>
+    <id>https://daiding.site/code/react/</id>
+    <link href="https://daiding.site/code/react/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>创建 React 项目</h2>
 <p>使用 <code>create-react-app</code> 工具。</p>
@@ -3555,8 +3555,8 @@
   </entry>
   <entry>
     <title type="text">Vue.js</title>
-    <id>https://oceanusc.com/code/vue/</id>
-    <link href="https://oceanusc.com/code/vue/"/>
+    <id>https://daiding.site/code/vue/</id>
+    <link href="https://daiding.site/code/vue/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>简介</h2>
 <p>Vue (发音为 /vjuː/，类似 view) 是一款用于构建用户界面的 JavaScript 框架。它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。无论是简单还是复杂的界面，Vue 都可以胜任。</p>
@@ -3619,8 +3619,8 @@
   </entry>
   <entry>
     <title type="text">Vue 与小程序的异同</title>
-    <id>https://oceanusc.com/code/vue/compare.html</id>
-    <link href="https://oceanusc.com/code/vue/compare.html"/>
+    <id>https://daiding.site/code/vue/compare.html</id>
+    <link href="https://daiding.site/code/vue/compare.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="text">优缺点比较
 
@@ -3647,8 +3647,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">网页入门</title>
-    <id>https://oceanusc.com/code/website/</id>
-    <link href="https://oceanusc.com/code/website/"/>
+    <id>https://daiding.site/code/website/</id>
+    <link href="https://daiding.site/code/website/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>网页需要三件套: <strong>HTML</strong>、<strong>CSS</strong> 和 <strong>JavaScript</strong>。</p>
 <ol>
@@ -3766,8 +3766,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">JavaScript 教程</title>
-    <id>https://oceanusc.com/code/website/js.html</id>
-    <link href="https://oceanusc.com/code/website/js.html"/>
+    <id>https://daiding.site/code/website/js.html</id>
+    <link href="https://daiding.site/code/website/js.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>初学者教程</h2>
 <ul>
@@ -3824,8 +3824,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">Windows 简介</title>
-    <id>https://oceanusc.com/code/windows/</id>
-    <link href="https://oceanusc.com/code/windows/"/>
+    <id>https://daiding.site/code/windows/</id>
+    <link href="https://daiding.site/code/windows/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>以下是有关于 Windows 系统的一些基础知识。</p>
 ]]></summary>
@@ -3837,8 +3837,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">打开命令行</title>
-    <id>https://oceanusc.com/code/windows/cmd.html</id>
-    <link href="https://oceanusc.com/code/windows/cmd.html"/>
+    <id>https://daiding.site/code/windows/cmd.html</id>
+    <link href="https://daiding.site/code/windows/cmd.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>打开命令行 (命令提示符) 有多种方式。</p>
 <ol>
@@ -3864,8 +3864,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">Windows 开发</title>
-    <id>https://oceanusc.com/code/windows/developers.html</id>
-    <link href="https://oceanusc.com/code/windows/developers.html"/>
+    <id>https://daiding.site/code/windows/developers.html</id>
+    <link href="https://daiding.site/code/windows/developers.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本文主要介绍 Windows 11 系统下，与开发相关的功能。</p>
 <h2>WSL</h2>
@@ -3900,8 +3900,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">环境变量</title>
-    <id>https://oceanusc.com/code/windows/env-variable.html</id>
-    <link href="https://oceanusc.com/code/windows/env-variable.html"/>
+    <id>https://daiding.site/code/windows/env-variable.html</id>
+    <link href="https://daiding.site/code/windows/env-variable.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>以 Windows 10 系统为例，直接在左下角搜索栏中输入“系统变量”</p>
 <figure><figcaption>搜索</figcaption></figure>
@@ -3926,8 +3926,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">显示文件后缀名与隐藏文件</title>
-    <id>https://oceanusc.com/code/windows/hidden-file.html</id>
-    <link href="https://oceanusc.com/code/windows/hidden-file.html"/>
+    <id>https://daiding.site/code/windows/hidden-file.html</id>
+    <link href="https://daiding.site/code/windows/hidden-file.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>显示文件后缀名与隐藏文件</h2>
 <figure><figcaption>Win11 显示隐藏的文件与文件夹</figcaption></figure>
@@ -3942,8 +3942,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">记事本的遗留问题</title>
-    <id>https://oceanusc.com/code/windows/notepad.html</id>
-    <link href="https://oceanusc.com/code/windows/notepad.html"/>
+    <id>https://daiding.site/code/windows/notepad.html</id>
+    <link href="https://daiding.site/code/windows/notepad.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>在编写代码的时候，临时的软件选择需要注意。</p>
 <p>请注意，绝对不能用 Word 和写字板。Word 和写字板保存的不是纯文本文件。</p>
@@ -3964,8 +3964,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">常用快捷键</title>
-    <id>https://oceanusc.com/code/windows/shortcut-key.html</id>
-    <link href="https://oceanusc.com/code/windows/shortcut-key.html"/>
+    <id>https://daiding.site/code/windows/shortcut-key.html</id>
+    <link href="https://daiding.site/code/windows/shortcut-key.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>熟练掌握各种 Windows 快捷键，能够更加高效的使用 Windows。</p>
 ]]></summary>
@@ -4091,8 +4091,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">Windows 版本</title>
-    <id>https://oceanusc.com/code/windows/version.html</id>
-    <link href="https://oceanusc.com/code/windows/version.html"/>
+    <id>https://daiding.site/code/windows/version.html</id>
+    <link href="https://daiding.site/code/windows/version.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>简介</h2>
 <p>Microsoft Windows 操作系统是美国微软公司研发的一套操作系统，它问世于 1985 年，起初仅仅是 Microsoft-DOS 模拟环境，后续的系统版本由于微软不断的更新升级，不但易用，也当前应用最广泛的操作系统。</p>
@@ -4107,8 +4107,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">设计文章</title>
-    <id>https://oceanusc.com/design/articles/</id>
-    <link href="https://oceanusc.com/design/articles/"/>
+    <id>https://daiding.site/design/articles/</id>
+    <link href="https://daiding.site/design/articles/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>文章列表</h2>
 <ul>
@@ -4140,8 +4140,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">格式塔原则</title>
-    <id>https://oceanusc.com/design/articles/gestalt-principle.html</id>
-    <link href="https://oceanusc.com/design/articles/gestalt-principle.html"/>
+    <id>https://daiding.site/design/articles/gestalt-principle.html</id>
+    <link href="https://daiding.site/design/articles/gestalt-principle.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>好的设计师理解心理学在视觉感知中的强大作用。当别人的目光与您的设计创作相遇时，会发生什么? 他们对您分享的信息有什么反应?</p>
 <h2>格式塔原理概述</h2>
@@ -4423,8 +4423,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">信息流介绍</title>
-    <id>https://oceanusc.com/design/articles/infomation-flow.html</id>
-    <link href="https://oceanusc.com/design/articles/infomation-flow.html"/>
+    <id>https://daiding.site/design/articles/infomation-flow.html</id>
+    <link href="https://daiding.site/design/articles/infomation-flow.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>今日头条的出现颠覆了传统新闻产品(如网易、新浪和搜狐新闻)。</p>
 <p>传统新闻依靠着编辑人员的推荐，将新闻触达给用户，而今日头条则依靠着新闻算法，抛弃传统人工分发的思路，使分发效率数以万计的提升，其迅速崛起，成为头部新闻资讯产品。</p>
@@ -4502,8 +4502,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">布局中的左和右</title>
-    <id>https://oceanusc.com/design/articles/left-or-right.html</id>
-    <link href="https://oceanusc.com/design/articles/left-or-right.html"/>
+    <id>https://daiding.site/design/articles/left-or-right.html</id>
+    <link href="https://daiding.site/design/articles/left-or-right.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>左右横跳的泳道</h2>
 <p>最近经常在人人视频上看电视剧，发现人人视频在设计上有个很有意思的点。</p>
@@ -4569,8 +4569,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">图标</title>
-    <id>https://oceanusc.com/design/icon/</id>
-    <link href="https://oceanusc.com/design/icon/"/>
+    <id>https://daiding.site/design/icon/</id>
+    <link href="https://daiding.site/design/icon/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本文介绍了 UI 设计中图标的相关介绍与技巧。</p>
 ]]></summary>
@@ -4660,8 +4660,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">图标应用</title>
-    <id>https://oceanusc.com/design/icon/apply.html</id>
-    <link href="https://oceanusc.com/design/icon/apply.html"/>
+    <id>https://daiding.site/design/icon/apply.html</id>
+    <link href="https://daiding.site/design/icon/apply.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>在 UI 设计中，图标不是孤立存在的。我们学习图标的设计，不是为了画一组套图，然后上传到设计平台中分享或求赞，而是要在真实的项目中发挥作用。如果不了解图标应用到项目中的知识点，那么真实的图标设计水平就会在项目设计过程中被损耗。</p>
 <p>所以，本章讲述工具图标在项目中应用的方法。</p>
@@ -4680,8 +4680,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">装饰性图标设计</title>
-    <id>https://oceanusc.com/design/icon/decorative.html</id>
-    <link href="https://oceanusc.com/design/icon/decorative.html"/>
+    <id>https://daiding.site/design/icon/decorative.html</id>
+    <link href="https://daiding.site/design/icon/decorative.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>装饰图标最主要的应用区域，集中在首页的快速入口上，也是今天多数应用中会使用的组件。下面，我们会讲解国内主流应用中的几种装饰图标的设计。</p>
 ]]></summary>
@@ -4771,8 +4771,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">图标绘制流程</title>
-    <id>https://oceanusc.com/design/icon/draw.html</id>
-    <link href="https://oceanusc.com/design/icon/draw.html"/>
+    <id>https://daiding.site/design/icon/draw.html</id>
+    <link href="https://daiding.site/design/icon/draw.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>情绪板</h2>
 <p>情绪板是在执行一项设计操作之前非常重要的一个步骤，情绪板并不是像设计平台展示作品集里那样放几张图片，几个关键词，而是一套对接下来设计的一个风格走向定位。根据不同的用户人群，不同颜色的色彩情绪，不同产品的业务，将用户调研的结果，产品的背景进行总结与思考，定位接下来的设计风格。</p>
@@ -4808,8 +4808,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">面性图标设计</title>
-    <id>https://oceanusc.com/design/icon/flour.html</id>
-    <link href="https://oceanusc.com/design/icon/flour.html"/>
+    <id>https://daiding.site/design/icon/flour.html</id>
+    <link href="https://daiding.site/design/icon/flour.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>面性图标在操作中和线性图标的最大差别就在于描边和填充模式，我们知道为了满足像素对齐的要求，线性描边会在操作中产生很多不可控的因素，要用很多额外的操作步骤去弥补。在面性图标中，就不需要使用描边，并且使用相同的图标模板即可。</p>
 <figure><figcaption>面性图标</figcaption></figure>
@@ -4859,8 +4859,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">图标设计指南</title>
-    <id>https://oceanusc.com/design/icon/guide.html</id>
-    <link href="https://oceanusc.com/design/icon/guide.html"/>
+    <id>https://daiding.site/design/icon/guide.html</id>
+    <link href="https://daiding.site/design/icon/guide.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>图标的可用性</h2>
 <p>图标可用性，顾名思义就是图标绘制出来是否能被用户所看懂并快速识别，是否可以为业务赋能。以下是总结的四条图标绘制的评判标准。</p>
@@ -4989,8 +4989,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">图标介绍</title>
-    <id>https://oceanusc.com/design/icon/intro.html</id>
-    <link href="https://oceanusc.com/design/icon/intro.html"/>
+    <id>https://daiding.site/design/icon/intro.html</id>
+    <link href="https://daiding.site/design/icon/intro.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>图标的基本认识</h2>
 <p>图标，是一种图形化的标识，它有广义和狭义两种概念，广义指的是所有现实中有明确指向含义的图形符号，狭义主要指在计算机设备界面中的图形符号，有非常大的覆盖范围。</p>
@@ -5019,8 +5019,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">线性图标设计</title>
-    <id>https://oceanusc.com/design/icon/line.html</id>
-    <link href="https://oceanusc.com/design/icon/line.html"/>
+    <id>https://daiding.site/design/icon/line.html</id>
+    <link href="https://daiding.site/design/icon/line.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>线性图标是所有图标中最基础的设计形式，也是最简单的入门。在我们后续设计其它的风格图标前，首先要通过练习线性图标来打下坚实的基础。</p>
 ]]></summary>
@@ -5195,9 +5195,9 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">图标设计准则</title>
-    <id>https://oceanusc.com/design/icon/rule.html</id>
-    <link href="https://oceanusc.com/design/icon/rule.html"/>
-    <updated>2024-09-09T07:43:42.000Z</updated>
+    <id>https://daiding.site/design/icon/rule.html</id>
+    <link href="https://daiding.site/design/icon/rule.html"/>
+    <updated>2024-09-09T08:45:50.000Z</updated>
     <summary type="html"><![CDATA[<p>规范是图标设计的重点。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>规范是图标设计的重点。</p>
@@ -5290,7 +5290,7 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
 <p class="hint-container-title">栅格素材</p>
 <p>此处有一套现成的栅格素材，包含 16、24、28、32、36、48 等六个尺寸。</p>
 <ul>
-<li><a href="https://oceanusc.com/file/design/tool-grid.ai" target="_blank" rel="noopener noreferrer">工具栅格下载</a></li>
+<li><a href="https://daiding.site/file/design/tool-grid.ai" target="_blank" rel="noopener noreferrer">工具栅格下载</a></li>
 </ul>
 </div>
 <h2>像素对齐</h2>
@@ -5332,8 +5332,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">图标设计技巧</title>
-    <id>https://oceanusc.com/design/icon/skill.html</id>
-    <link href="https://oceanusc.com/design/icon/skill.html"/>
+    <id>https://daiding.site/design/icon/skill.html</id>
+    <link href="https://daiding.site/design/icon/skill.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>图标是 UI 设计中最基础也是很重要的部分，辅助人们更好的理解功能内容。随着扁平化设计风格的普及，图标的风格越来越简约，看似简单的图形，实际要准确的表达含义，也是需要注意一些方法的。下面是是图标设计的实用技巧。</p>
 <h2>简单</h2>
@@ -5373,8 +5373,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">学习图标所需的软件</title>
-    <id>https://oceanusc.com/design/icon/software.html</id>
-    <link href="https://oceanusc.com/design/icon/software.html"/>
+    <id>https://daiding.site/design/icon/software.html</id>
+    <link href="https://daiding.site/design/icon/software.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>了解了图标的类型，就要开始了解做出这些图标应该使用哪些软件了。通常，UI 主要使用的设计软件包含 PS、AI、Sketch、XD 四款，理论上，它们都包含了图标绘制的功能，下面介绍这四款软件对于图标设计的优劣，以及需要掌握的部分。</p>
 ]]></summary>
@@ -5414,8 +5414,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">启动图标设计指南</title>
-    <id>https://oceanusc.com/design/icon/start.html</id>
-    <link href="https://oceanusc.com/design/icon/start.html"/>
+    <id>https://daiding.site/design/icon/start.html</id>
+    <link href="https://daiding.site/design/icon/start.html"/>
     <updated>2024-09-09T07:11:46.000Z</updated>
     <summary type="html"><![CDATA[<p>想要在启动图标设计上入门，就要先从规范开始学习，然后了解不同的风格以及对应风格的设计过程。</p>
 <h2>启动图标的设计规范</h2>
@@ -5474,8 +5474,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">图标种类</title>
-    <id>https://oceanusc.com/design/icon/type.html</id>
-    <link href="https://oceanusc.com/design/icon/type.html"/>
+    <id>https://daiding.site/design/icon/type.html</id>
+    <link href="https://daiding.site/design/icon/type.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>设计图标可以划分成三种大类:</p>
 <ul>
@@ -5554,8 +5554,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">交互设计</title>
-    <id>https://oceanusc.com/design/interact/</id>
-    <link href="https://oceanusc.com/design/interact/"/>
+    <id>https://daiding.site/design/interact/</id>
+    <link href="https://daiding.site/design/interact/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>文章列表</h2>
 <ul>
@@ -5582,8 +5582,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">搜索框设计</title>
-    <id>https://oceanusc.com/design/interact/search.html</id>
-    <link href="https://oceanusc.com/design/interact/search.html"/>
+    <id>https://daiding.site/design/interact/search.html</id>
+    <link href="https://daiding.site/design/interact/search.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>搜索框是我们最常用到的 UI 控件之一，它几乎存在于所有的网站和 APP 当中。许多人认为搜索框不需要设计，因为它似乎就是由两个最简单的元素构成的。在以内容为导向的网站中，搜索框的重要性会相对更明显，用户需要快速又无痛地找到他们想要的内容。而对于设计相对负责的网站而言，这个需求尤其明显。搜索框的可用性设计，是整个设计的关键，也就是如何让用户尽量节省时间，搜到他们想要的内容。</p>
 <h2>使用放大镜图标</h2>
@@ -5671,8 +5671,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">文本框设计</title>
-    <id>https://oceanusc.com/design/interact/text-field.html</id>
-    <link href="https://oceanusc.com/design/interact/text-field.html"/>
+    <id>https://daiding.site/design/interact/text-field.html</id>
+    <link href="https://daiding.site/design/interact/text-field.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>文本框的出现几乎可以追溯到可视化交互诞生的源头，是一个再经典不过的「鼻祖」控件了。我们每天都在和文本框打交道，不论您是产品设计者还是用户。</p>
 <h2>文本框的拆解</h2>
@@ -5755,8 +5755,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">导航设计教程</title>
-    <id>https://oceanusc.com/design/navigation/</id>
-    <link href="https://oceanusc.com/design/navigation/"/>
+    <id>https://daiding.site/design/navigation/</id>
+    <link href="https://daiding.site/design/navigation/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>目录</h2>
 <ul>
@@ -5806,8 +5806,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">导航设计介绍</title>
-    <id>https://oceanusc.com/design/navigation/intro.html</id>
-    <link href="https://oceanusc.com/design/navigation/intro.html"/>
+    <id>https://daiding.site/design/navigation/intro.html</id>
+    <link href="https://daiding.site/design/navigation/intro.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>其实网页或者 App 中的导航(Navigation)这个概念远不止我们熟悉的导航栏，而是一个更加广的交互概念: 引导用户和产品进行有效的交互，实现用户的目标。本文将详细地介绍界面的导航设计。</p>
 <p>一个网页或 App 产品要想有很好的可用性(usability)，需要做好的最基本的一点是导航的设计或者说引导用户的设计。如果用户在使用一个网站或者 App 的时候找不到自己的处在什么位置或者该怎么去到想要的页面，那么视觉效果再怎么有创意或者抓人眼球都无法弥补产品的缺陷。无论您的产品想满足用户什么需求，让用户知道产品当下的状态和每一步操作之后的结果是对用户最基本的尊重。</p>
@@ -5861,8 +5861,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">导航栏设计技巧</title>
-    <id>https://oceanusc.com/design/navigation/navbar-design.html</id>
-    <link href="https://oceanusc.com/design/navigation/navbar-design.html"/>
+    <id>https://daiding.site/design/navigation/navbar-design.html</id>
+    <link href="https://daiding.site/design/navigation/navbar-design.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>评判导航菜单的设计好坏有多种不同的维度，由于它太过常用，它的好坏并没有得到更多重视。实际上，导航作为网站设计的一个基础组成部分，对于可用性的要求并不低。以下是一些常见的设计技巧。</p>
 <h2>超大菜单栏</h2>
@@ -5914,8 +5914,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">导航栏设计</title>
-    <id>https://oceanusc.com/design/navigation/navbar.html</id>
-    <link href="https://oceanusc.com/design/navigation/navbar.html"/>
+    <id>https://daiding.site/design/navigation/navbar.html</id>
+    <link href="https://daiding.site/design/navigation/navbar.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>其实网页或者 App 中的导航(Navigation)这个概念远不止我们熟悉的导航栏，而是一个更加广的交互概念: 引导用户和产品进行有效的交互，实现用户的目标。</p>
 <h2>导航栏究竟在哪里</h2>
@@ -5975,8 +5975,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">侧边栏导航</title>
-    <id>https://oceanusc.com/design/navigation/sidebar-navigate.html</id>
-    <link href="https://oceanusc.com/design/navigation/sidebar-navigate.html"/>
+    <id>https://daiding.site/design/navigation/sidebar-navigate.html</id>
+    <link href="https://daiding.site/design/navigation/sidebar-navigate.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>厌倦了传统顶部导航的设计师，越来越偏爱侧边栏导航了。这种常见于页面左侧的侧边栏设计，已经成了许多独树一帜的设计师的选择了。</p>
 <h2>无处不在的侧边栏导航</h2>
@@ -6039,8 +6039,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">标签导航设计技巧</title>
-    <id>https://oceanusc.com/design/navigation/tabbar-design.html</id>
-    <link href="https://oceanusc.com/design/navigation/tabbar-design.html"/>
+    <id>https://daiding.site/design/navigation/tabbar-design.html</id>
+    <link href="https://daiding.site/design/navigation/tabbar-design.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>底部导航栏图标重要性及维度</h2>
 <h3>重要性</h3>
@@ -6116,8 +6116,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">标签导航设计</title>
-    <id>https://oceanusc.com/design/navigation/tabbar.html</id>
-    <link href="https://oceanusc.com/design/navigation/tabbar.html"/>
+    <id>https://daiding.site/design/navigation/tabbar.html</id>
+    <link href="https://daiding.site/design/navigation/tabbar.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>导航分很多类别，如标签导航、抽屉式导航、九宫格导航、混合组合导航、列表式导航、Tab 导航、平铺导航等等。</p>
 <p>现在用到更多的导航其实是标签导航(tabbar)，它随处可见，相信目前大部分的 App 用的导航都是标签形式的。</p>
@@ -6174,8 +6174,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">Bash 教程</title>
-    <id>https://oceanusc.com/linux/bash/</id>
-    <link href="https://oceanusc.com/linux/bash/"/>
+    <id>https://daiding.site/linux/bash/</id>
+    <link href="https://daiding.site/linux/bash/"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>目录</h2>
 <ul>
@@ -6316,8 +6316,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">Bash 的算术运算</title>
-    <id>https://oceanusc.com/linux/bash/arithmetic.html</id>
-    <link href="https://oceanusc.com/linux/bash/arithmetic.html"/>
+    <id>https://daiding.site/linux/bash/arithmetic.html</id>
+    <link href="https://daiding.site/linux/bash/arithmetic.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>算术表达式</h2>
 <p><code>((...))</code> 语法可以进行整数的算术运算。</p>
@@ -6534,8 +6534,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">数组</title>
-    <id>https://oceanusc.com/linux/bash/array.html</id>
-    <link href="https://oceanusc.com/linux/bash/array.html"/>
+    <id>https://daiding.site/linux/bash/array.html</id>
+    <link href="https://daiding.site/linux/bash/array.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>数组(array)是一个包含多个值的变量。成员的编号从 0 开始，数量没有上限，也没有要求成员被连续索引。</p>
 ]]></summary>
@@ -6771,8 +6771,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">条件判断</title>
-    <id>https://oceanusc.com/linux/bash/condition.html</id>
-    <link href="https://oceanusc.com/linux/bash/condition.html"/>
+    <id>https://daiding.site/linux/bash/condition.html</id>
+    <link href="https://daiding.site/linux/bash/condition.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本章介绍 Bash 脚本的条件判断语法。</p>
 ]]></summary>
@@ -7235,8 +7235,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">脚本除错</title>
-    <id>https://oceanusc.com/linux/bash/debug.html</id>
-    <link href="https://oceanusc.com/linux/bash/debug.html"/>
+    <id>https://daiding.site/linux/bash/debug.html</id>
+    <link href="https://daiding.site/linux/bash/debug.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本章介绍如何对 Shell 脚本除错。</p>
 ]]></summary>
@@ -7417,8 +7417,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">Bash 的模式扩展</title>
-    <id>https://oceanusc.com/linux/bash/expansion.html</id>
-    <link href="https://oceanusc.com/linux/bash/expansion.html"/>
+    <id>https://daiding.site/linux/bash/expansion.html</id>
+    <link href="https://daiding.site/linux/bash/expansion.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<h2>简介</h2>
 <p>Shell 接收到用户输入的命令以后，会根据空格将用户的输入，拆分成一个个词元(token)。然后，Shell 会扩展词元里面的特殊字符，扩展完成后才会调用相应的命令。</p>
@@ -7881,8 +7881,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">Bash 函数</title>
-    <id>https://oceanusc.com/linux/bash/function.html</id>
-    <link href="https://oceanusc.com/linux/bash/function.html"/>
+    <id>https://daiding.site/linux/bash/function.html</id>
+    <link href="https://daiding.site/linux/bash/function.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本章介绍 Bash 函数的用法。</p>
 ]]></summary>
@@ -8029,8 +8029,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">Bash 的基本语法</title>
-    <id>https://oceanusc.com/linux/bash/grammar.html</id>
-    <link href="https://oceanusc.com/linux/bash/grammar.html"/>
+    <id>https://daiding.site/linux/bash/grammar.html</id>
+    <link href="https://daiding.site/linux/bash/grammar.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本章介绍 Bash 的最基本语法。</p>
 ]]></summary>
@@ -8174,8 +8174,8 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
   </entry>
   <entry>
     <title type="text">Bash 简介</title>
-    <id>https://oceanusc.com/linux/bash/intro.html</id>
-    <link href="https://oceanusc.com/linux/bash/intro.html"/>
+    <id>https://daiding.site/linux/bash/intro.html</id>
+    <link href="https://daiding.site/linux/bash/intro.html"/>
     <updated>2024-09-08T05:09:45.000Z</updated>
     <summary type="html"><![CDATA[<p>Bash 是 Unix 系统和 Linux 系统的一种 Shell(命令行环境)，是目前绝大多数 Linux 发行版的默认 Shell。</p>
 ]]></summary>
