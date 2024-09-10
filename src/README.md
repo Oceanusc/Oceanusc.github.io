@@ -6,7 +6,7 @@ icon: home
 title: 主页
 heroImage: /logo.svg
 heroText: 𝓞𝓬𝓮𝓪𝓷𝓾𝓼𝓬
-tagline: Where there is light, there is hope
+tagline: All men by nature desire knowledge
 head:
   - - meta
     - name: baidu-site-verification
