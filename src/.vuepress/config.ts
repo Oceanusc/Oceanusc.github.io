@@ -27,7 +27,7 @@ export default <UserConfig>defineUserConfig({
     "/": {
       lang: "zh-CN",
       title: "oceanusc",
-      description: "Where there is light, there is hope.",
+      description: "All men by nature desire knowledge.",
     },
   },
 
