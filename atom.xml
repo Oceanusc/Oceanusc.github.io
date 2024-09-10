@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://daiding.site/</id>
   <title>oceanusc</title>
-  <subtitle>Where there is light, there is hope.</subtitle>
+  <subtitle>All men by nature desire knowledge.</subtitle>
   <icon>https://daiding.site/favicon.ico</icon>
   <rights>基于 MIT 协议，© 2023-至今 oceanusc</rights>
-  <updated>2024-09-09T10:02:50.784Z</updated>
+  <updated>2024-09-10T09:22:48.751Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://daiding.site/atom.xml"/>
   <link rel="alternate" href="https://daiding.site/"/>
