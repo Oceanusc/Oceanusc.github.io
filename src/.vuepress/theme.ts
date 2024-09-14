@@ -45,7 +45,7 @@ export default hopeTheme(
     },
 
     displayFooter: true,
-    copyright: "Copyright © 2023-present oceanusc",
+    copyright: "Copyright © 2022-present oceanusc",
 
     plugins: {
       searchPro: true,
