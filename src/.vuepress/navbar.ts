@@ -23,11 +23,11 @@ export const zhNavbarConfig = navbar([
     ],
   },
   {
-    text: "随笔",
-    icon: "note",
+    text: "工具分享",
+    icon: "fa-brands fa-twitter",
     prefix: "/note/",
     children: [
-      { text: "随笔", link: "", icon: "note", activeMatch: "^/note/$" },
+      { text: "工具分享", link: "", icon: "note", activeMatch: "^/note/$" },
       "node-js/",
     ],
   },

@@ -1,16 +1,14 @@
 ---
 date: 2022-01-07
-title: oceanusc 的随笔
-icon: note
-category: 随笔
+title: oceanusc 的工具分享
+icon: screwdriver-wrench
+category: 工具分享
 article: false
 ---
 
 这里是 oceanusc 的一些笔记，后续被整理进博客中。
 
 :::
-
-- [点击前往](poem/README.md)
 
 ## Node.js 相关
 
