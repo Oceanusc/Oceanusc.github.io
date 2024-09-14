@@ -21,8 +21,6 @@ export const zhSidebarConfig = sidebar({
 
   "/software/git/": "structure",
 
-  "/software/comsol/": comsol,
-
   "/software/": software,
 
   "/note/innenu/": ["", "yaml", "tag-list", "get-started"],
