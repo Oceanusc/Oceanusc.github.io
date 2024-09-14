@@ -44,7 +44,6 @@ export const zhNavbarConfig = navbar([
       },
       "vscode/",
       "git/",
-      "comsol/",
     ],
   },
 ]);

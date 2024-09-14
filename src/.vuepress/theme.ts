@@ -31,7 +31,7 @@ export default hopeTheme(
 
         sidebar: zhSidebarConfig,
 
-        copyright: "基于 MIT 协议，© 2023-至今 oceanusc",
+        copyright: "基于 MIT 协议，© 2022-至今 oceanusc",
 
         blog: {
           description: "一个前端开发者",
