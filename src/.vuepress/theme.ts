@@ -19,7 +19,7 @@ export default hopeTheme(
     logo: "/logo.png",
     fullscreen: true,
 
-    repo: "hahaDxg/hahaDxg.github.io",
+    repo: "Oceanusc/Oceanusc.github.io",
 
     repoDisplay: false,
 
