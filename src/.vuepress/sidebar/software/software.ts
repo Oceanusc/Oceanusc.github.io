@@ -6,7 +6,6 @@ export const software = arraySidebar([
   "vscode/",
   "chrome",
   "git/",
-  "comsol/",
   {
     text: "工具软件",
     icon: "tool",

@@ -11,7 +11,7 @@ import {
 import { linux } from "./linux.js";
 import { miniapp } from "./mini-app/index.js";
 import { note } from "./note.js";
-import { comsol, software, vscode } from "./software/index.js";
+import { software, vscode } from "./software/index.js";
 import { vue } from "./vue.js";
 import { jquery, website } from "./website/index.js";
 
