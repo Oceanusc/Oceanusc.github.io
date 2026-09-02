@@ -42,6 +42,10 @@ sticky: 9
 
 - [查看详情](tool/README.md)
 
+## AI Agent
+
+- [DeepSeek Harness](deepseek-harness.md)
+
 ## 手机 APP
 
 ### soloLearn
