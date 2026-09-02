@@ -1,5 +1,8 @@
 ---
 date: 2022-11-06
+title: Flutter 项目依赖更新
+icon: flutter
+category: 工具分享
 ---
 
 # Update Flutter Project Deps

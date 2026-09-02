@@ -24,7 +24,9 @@ export const zhNavbarConfig = navbar([
     prefix: "/note/",
     children: [
       { text: "工具分享", link: "", icon: "note", activeMatch: "^/note/$" },
-      "node-js/",
+      "development/",
+      "operations/",
+      "ai-local/",
     ],
   },
   {
