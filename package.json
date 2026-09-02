@@ -21,25 +21,25 @@
     "personal-blog"
   ],
   "dependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.15",
-    "@vuepress/plugin-append-date": "2.0.0-rc.43",
-    "@vuepress/plugin-docsearch": "2.0.0-rc.43",
-    "@vuepress/plugin-feed": "2.0.0-rc.43",
-    "@vuepress/plugin-pwa": "2.0.0-rc.43",
+    "@vuepress/bundler-vite": "2.0.0-rc.30",
+    "@vuepress/plugin-append-date": "2.0.0-rc.132",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.132",
+    "@vuepress/plugin-feed": "2.0.0-rc.132",
+    "@vuepress/plugin-pwa": "2.0.0-rc.131",
     "@waline/client": "3.3.0",
     "flowchart.ts": "3.0.0",
     "mathjax-full": "3.2.2",
     "mermaid": "10.9.1",
     "reveal.js": "5.1.0",
     "sass-loader": "14.2.1",
-    "vue": "^3.5.5",
-    "vuepress": "2.0.0-rc.15",
-    "vuepress-theme-hope": "2.0.0-rc.52"
+    "vue": "^3.5.42",
+    "vuepress": "2.0.0-rc.31",
+    "vuepress-theme-hope": "2.0.0-rc.107"
   },
   "devDependencies": {
     "cross-env": "7.0.3",
     "markdownlint-cli2": "0.13.0",
     "prettier": "3.3.3",
-    "vuepress-plugin-search-pro": "2.0.0-rc.52"
+    "vuepress-plugin-search-pro": "2.0.0-rc.59"
   }
 }
