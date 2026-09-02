@@ -31,7 +31,7 @@
     "mathjax-full": "3.2.2",
     "mermaid": "10.9.1",
     "reveal.js": "5.1.0",
-    "sass-loader": "14.2.1",
+    "sass-loader": "16.0.8",
     "vue": "^3.5.42",
     "vuepress": "2.0.0-rc.31",
     "vuepress-theme-hope": "2.0.0-rc.107"
@@ -40,6 +40,7 @@
     "cross-env": "7.0.3",
     "markdownlint-cli2": "0.13.0",
     "prettier": "3.3.3",
+    "sass": "1.99.0",
     "vuepress-plugin-search-pro": "2.0.0-rc.59"
   }
 }
