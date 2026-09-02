@@ -34,7 +34,7 @@ export default hopeTheme(
         copyright: "基于 MIT 协议，© 2022-至今 oceanusc",
 
         blog: {
-          description: "一个前端开发者",
+          description: "不生产知识，主要负责收藏、整理和忘记。",
           medias: {
             GitHub: "https://github.com/oceanusc",
             Gmail: "che4ac@outlook.com",
