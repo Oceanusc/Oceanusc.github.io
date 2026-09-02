@@ -15,8 +15,7 @@ head:
     - name: msvalidate.01
       content: BFA4352248B0F52F3D36FFB45E3ADF6E
 
-# Special thank to @mo7
-bgImage: https://file.mo7.cc/api/public/bz
+bgImage: https://t.alcy.cc/fj
 heroFullScreen: true
 projects:
   - name: VuePress
