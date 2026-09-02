@@ -24,4 +24,5 @@ export const vscode = arraySidebar([
   "ui",
   "settings",
   "shortcut-key",
+  "extension",
 ]);

@@ -21,6 +21,7 @@ export const typescript = arraySidebar([
       "union-types",
       "type-of-object-interfaces",
       "type-of-array",
+      "type-of-function",
       "type-assertion",
       "declaration-files",
       "built-in-objects",

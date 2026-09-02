@@ -25,5 +25,11 @@ export const software = arraySidebar([
   },
   "apache",
   "nginx",
+  "postman",
   "mysql/",
+  {
+    text: "AI Agent",
+    icon: "software",
+    children: ["deepseek-harness"],
+  },
 ]);

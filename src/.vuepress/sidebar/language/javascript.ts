@@ -137,6 +137,8 @@ export const javascript = arraySidebar([
       "style",
       "spec",
       "arraybuffer",
+      "proposals",
+      "reference",
     ],
   },
   "error",
