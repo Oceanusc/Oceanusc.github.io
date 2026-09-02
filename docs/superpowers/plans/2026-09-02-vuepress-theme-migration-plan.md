@@ -25,7 +25,7 @@
 **Files:** no changes; test is the GitHub Actions deployment workflow.
 
 - [ ] Inspect the latest deployment workflow and record the exact build error.
-- [ ] Run rg -n 'layout:|@slidestart|@slideend|:::|\^\^|==|\$\$|\$[^$]|```(flow|mermaid)' src package.json to inventory legacy layout and extension syntax.
+- [ ] Run rg -n 'layout:|@slidestart|@slideend|:::|\^\^|==|\$\$|\$[^$]|```(flow|mermaid)' src package.json to inventory legacy layout and extension syntax. Record a disposition for every match: convert essential content to standard Markdown or remove nonessential content.
 - [ ] Do not commit the read-only baseline check.
 
 ### Task 2: Remove unsupported theme integration points
@@ -45,8 +45,8 @@
 
 - [ ] Ensure src/README.md has home: true and layout: Blog; do not restore BlogHome.
 - [ ] Rewrite src/about/README.md as a standard page with its existing title and 基本信息 heading/list. Remove the entire layout field, plus blog-only tag, timeline, and star fields; remove @slidestart, @slideend, and Reveal CSS comments.
-- [ ] For each post-build error identified by Task 1, replace only blocking extension syntax with ordinary Markdown (headings, lists, blockquotes, or code fences). Preserve ordinary Markdown unchanged.
-- [ ] Run pnpm run docs:build, Test-Path dist/index.html, and Test-Path dist/about/index.html. Expected: build exits 0 and both files exist.
+- [ ] For every Task 1 inventory match, convert essential legacy extension syntax to ordinary Markdown (headings, lists, blockquotes, or code fences) or remove nonessential content. Do this even where the syntax does not currently fail the build, so unsupported syntax cannot silently render as plain text. Preserve ordinary Markdown unchanged.
+- [ ] Run pnpm run docs:build, Test-Path dist/index.html, and Test-Path dist/about/index.html. Re-run the Task 1 rg command; expected: zero remaining legacy-syntax matches, unless an explicitly documented current-theme-supported syntax is retained. Expected: build exits 0 and both files exist.
 - [ ] Commit with: refactor: replace legacy page layouts.
 
 ### Task 4: Remove unused optional dependencies and regenerate lockfile
