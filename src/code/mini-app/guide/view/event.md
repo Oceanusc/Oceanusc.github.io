@@ -84,7 +84,7 @@ Page({
 
     ```xml
     <wxs module="wxs" src="./test.wxs"></wxs>
-    <view id="tapTest" data-hi="WeChat" bindtap="{{wxs.tapName}}"> Click me! </view>
+    <view id="tapTest" data-hi="WeChat" bindtap="&#123;&#123;wxs.tapName&#125;&#125;"> Click me! </view>
     ```
 
     ::: v-pre
