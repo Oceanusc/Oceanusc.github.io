@@ -35,7 +35,6 @@ export default hopeTheme(
 
         blog: {
           description: "一个前端开发者",
-          intro: "/about/",
           medias: {
             GitHub: "https://github.com/oceanusc",
             Gmail: "che4ac@outlook.com",

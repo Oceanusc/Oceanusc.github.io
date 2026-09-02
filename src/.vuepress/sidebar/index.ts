@@ -67,7 +67,7 @@ export const zhSidebarConfig = sidebar({
   "/about/": "structure",
 
   // fallback
-  "/": ["", "note/", "code/", "software/", "about/"],
+  "/": ["", "note/", "code/", "software/"],
 });
 
 export const enSidebarConfig = sidebar({
