@@ -1,6 +1,6 @@
 ---
 date: 2022-01-07
-layout: Slide
+layout: Slides
 title: oceanusc 介绍
 icon: people
 tag:
