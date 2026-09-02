@@ -44,7 +44,7 @@
 **Files:** modify src/README.md, src/about/README.md, and only source Markdown files that block the build.
 
 - [ ] Ensure src/README.md has home: true and layout: Blog; do not restore BlogHome.
-- [ ] Rewrite src/about/README.md as a standard page with its existing title and 基本信息 heading/list. Remove layout: Slides, @slidestart, @slideend, and Reveal CSS comments.
+- [ ] Rewrite src/about/README.md as a standard page with its existing title and 基本信息 heading/list. Remove the entire layout field, plus blog-only tag, timeline, and star fields; remove @slidestart, @slideend, and Reveal CSS comments.
 - [ ] For each post-build error identified by Task 1, replace only blocking extension syntax with ordinary Markdown (headings, lists, blockquotes, or code fences). Preserve ordinary Markdown unchanged.
 - [ ] Run pnpm run docs:build, Test-Path dist/index.html, and Test-Path dist/about/index.html. Expected: build exits 0 and both files exist.
 - [ ] Commit with: refactor: replace legacy page layouts.
