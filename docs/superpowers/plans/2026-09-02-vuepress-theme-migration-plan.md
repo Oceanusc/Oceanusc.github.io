@@ -34,7 +34,7 @@
 
 - [ ] Treat the current unresolved-layout workflow failure as the failing integration test.
 - [ ] In config.ts, retain dest, head, locales, theme, and shouldPrefetch. Remove appendDatePlugin, getDirname/path, the BlogHero alias, and plugin registration. Remove the unused hopeTheme import.
-- [ ] In theme.ts, retain identity, logo/favicon, repository metadata, locale navbar/sidebar, locale blog metadata, footer, and copyright. Delete the entire plugins object: searchPro, blog extras, comment, feed, mdEnhance, pwa, and shiki.
+- [ ] In theme.ts, retain identity, logo/favicon, repository metadata, locale navbar/sidebar, locale blog metadata, footer, and copyright. Replace the plugins object with only plugins: { blog: { excerptLength: 0 } }. Delete searchPro, comment, feed, mdEnhance, pwa, and shiki; keep blog explicitly because the current theme registers the Blog layout only when this feature is enabled.
 - [ ] Replace client.ts with only defineClientConfig({}); delete BlogHero.vue.
 - [ ] Run pnpm run docs:build. Expected: old theme-internal module/config errors are removed; any remaining error is a page-level legacy syntax/layout failure.
 - [ ] Commit with: refactor: remove legacy Hope theme integrations.
