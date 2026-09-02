@@ -15,7 +15,7 @@ head:
     - name: msvalidate.01
       content: BFA4352248B0F52F3D36FFB45E3ADF6E
 
-bgImage: https://t.mwm.moe/pc
+bgImage: https://t.alcy.cc/fj
 heroFullScreen: true
 projects:
   - name: VuePress
