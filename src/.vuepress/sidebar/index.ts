@@ -1,6 +1,5 @@
 import { sidebar } from "vuepress-theme-hope";
 import { code } from "./code.js";
-import { design } from "./design.js";
 import {
   dart,
   javascript,
@@ -28,8 +27,6 @@ export const zhSidebarConfig = sidebar({
   "/note/": note,
 
   "/linux/": linux,
-
-  "/design/": design,
 
   "/code/windows/": "structure",
 

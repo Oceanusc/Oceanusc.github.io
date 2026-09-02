@@ -13,10 +13,6 @@ export const zhNavbarConfig = navbar([
         activeMatch: "^/code/$",
       },
       {
-        text: "产品设计",
-        children: ["/design/"],
-      },
-      {
         text: "后端运维",
         children: ["/linux/"],
       },
