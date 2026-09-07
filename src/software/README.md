@@ -42,6 +42,10 @@ sticky: 9
 
 - [查看详情](tool/README.md)
 
+## 远程控制
+
+- [RustDesk：开源远程桌面控制工具](rustdesk.md)
+
 ## AI Agent
 
 - [DeepSeek Harness](deepseek-harness.md)
