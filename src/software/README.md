@@ -46,9 +46,16 @@ sticky: 9
 
 - [RustDesk：开源远程桌面控制工具](rustdesk.md)
 
+## 开源软件
+
+- [Immich：把照片备份回自己的服务器](immich.md)
+- [Stirling PDF：在本地完成 PDF 处理](stirling-pdf.md)
+
 ## AI Agent
 
 - [DeepSeek Harness](deepseek-harness.md)
+- [nanobot：一个轻量的自托管个人 AI Agent](nanobot.md)
+- [Microsoft Agent Framework：面向生产环境的 Agent 工作流](microsoft-agent-framework.md)
 
 ## 手机 APP
 
