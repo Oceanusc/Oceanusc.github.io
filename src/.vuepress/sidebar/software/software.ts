@@ -28,6 +28,11 @@ export const software = arraySidebar([
   "postman",
   "mysql/",
   {
+    text: "开源软件",
+    icon: "software",
+    children: ["rustdesk"],
+  },
+  {
     text: "AI Agent",
     icon: "software",
     children: ["deepseek-harness"],
