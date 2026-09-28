@@ -55,6 +55,8 @@ sticky: 9
 
 - [DeepSeek Harness](deepseek-harness.md)
 - [nanobot：一个轻量的自托管个人 AI Agent](nanobot.md)
+- [Jev Ultrafast：让 AI 用自然语言操作浏览器](jev-ultrafast.md)
+- [Laya Ultrafast：在 Apple 芯片 Mac 上本地运行浏览器决策](laya-ultrafast.md)
 - [Microsoft Agent Framework：面向生产环境的 Agent 工作流](microsoft-agent-framework.md)
 
 ## 手机 APP
