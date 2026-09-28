@@ -38,9 +38,10 @@ export const software = arraySidebar([
     children: [
       "deepseek-harness",
       "nanobot",
-      "jev-ultrafast",
-      "laya-ultrafast",
+      "laya-model",
+      "jev-model",
       "microsoft-agent-framework",
     ],
   },
 ]);
+
