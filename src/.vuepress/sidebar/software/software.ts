@@ -36,12 +36,16 @@ export const software = arraySidebar([
     text: "AI Agent",
     icon: "software",
     children: [
-      "rea",
-      "deepseek-harness",
-      "nanobot",
-      "laya-model",
-      "jev-model",
-      "microsoft-agent-framework",
+      { text: "REA", icon: "robot", link: "rea" },
+      { text: "DeepSeek Harness", icon: "robot", link: "deepseek-harness" },
+      { text: "nanobot", icon: "robot", link: "nanobot" },
+      { text: "Laya", icon: "robot", link: "laya-model" },
+      { text: "Jev", icon: "robot", link: "jev-model" },
+      {
+        text: "Microsoft Agent Framework",
+        icon: "robot",
+        link: "microsoft-agent-framework",
+      },
     ],
   },
 ]);
