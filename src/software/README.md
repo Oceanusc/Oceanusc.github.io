@@ -53,6 +53,7 @@ sticky: 9
 
 ## AI Agent
 
+- [REA：让 AI Agent 帮你分析应用与二进制](rea.md)
 - [DeepSeek Harness](deepseek-harness.md)
 - [nanobot：一个轻量的自托管个人 AI Agent](nanobot.md)
 - [Laya：开源的非自回归决策模型](laya-model.md)
@@ -70,4 +71,3 @@ sticky: 9
 ## Adobe 软件
 
 Adobe 全系软件的获取，请见 [VPosy 的微博](https://www.weibo.com/vposy) 的置顶帖。
-
