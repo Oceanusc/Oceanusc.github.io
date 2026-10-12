@@ -36,6 +36,7 @@ export const software = arraySidebar([
     text: "AI Agent",
     icon: "software",
     children: [
+      "rea",
       "deepseek-harness",
       "nanobot",
       "laya-model",
@@ -44,4 +45,3 @@ export const software = arraySidebar([
     ],
   },
 ]);
-
