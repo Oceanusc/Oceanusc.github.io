@@ -60,6 +60,128 @@ dsh plugin --profile web add dshmarket
 
 如果只想先试三个，我会选择：`dsh-whale-pet`、`dsh-live2d-companion` 和 `dsh-maid-whale-webUI`。它们分别代表桌宠、Live2D 和鲸娘主题三种方向。
 
+## B 站玩法
+
+DSH 还可以通过社区插件连接 B 站，把找教程、整理视频笔记和日常刷视频放进同一个工作台。下面的安装方式按 2026 年 10 月 24 日的项目文档整理；这些都是第三方插件，安装前请核对各自 README 中的版本要求。
+
+| 想做什么                 | 对应插件                                                          | 使用方式                     |
+| ------------------------ | ----------------------------------------------------------------- | ---------------------------- |
+| 搜索视频、提取字幕并总结 | `dsh-plugin-bilibili`                                             | 在对话中交给 Agent 处理      |
+| 按兴趣筛选视频并生成日报 | `dsh-bili-scroll`                                                 | 在设置页配置关键词和运行方式 |
+| 自动评论、接话或守评论区 | `dsh-bili-scroll`、`dsh-bili-pond`、`@seiuna/dsh-bilibili-plugin` | 按触发方式选择，详见下文     |
+| 写代码时用小窗看视频     | `dsh-bili-widget`                                                 | 在 DSH 内打开悬浮播放器      |
+
+### 搜索教程，把视频变成学习笔记
+
+[moxingovo/dsh-bilibili](https://github.com/moxingovo/dsh-bilibili/blob/main/README.zh.md) 提供搜索、视频详情、字幕、播放地址和画面帧工具。安装包名是 `dsh-plugin-bilibili`，与仓库名不同：
+
+```sh
+dsh plugin --profile web add dsh-plugin-bilibili
+```
+
+重启 `dsh web` 并新建会话后，可以试试：
+
+```text
+帮我在 B 站找 3 个讲 Git worktree 的教程，列出标题、UP 主、时长和链接。
+选一个适合初学者的视频，读取字幕，整理概念、操作步骤和常见错误。
+请说明哪些结论来自字幕；字幕获取失败时如实说明，不要根据标题编造内容。
+```
+
+搜索和视频详情可以匿名使用；部分字幕需要登录。按[项目的 SESSDATA 配置说明](https://github.com/moxingovo/dsh-bilibili/blob/main/README.zh.md#可选-sessdata)，可在本机环境变量或 `$DSH_HOME/.env` 中设置 `BILIBILI_SESSDATA`，值只填裸 token。不要把 Cookie 写进聊天、博客或 Git 仓库。
+
+字幕为空、登录失效或遇到风控时，总结可能无法完成；画面分析还需要支持图片输入的模型。只有封面或少量预览帧时，也不能据此判断整个视频的内容。
+
+### 按兴趣刷一轮，整理成视频日报
+
+[dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) 会按关键词寻找视频、读取内容，再把值得看的整理成 Markdown 报告。适合追踪 AI 工具、开源项目或某一门技术的更新。
+
+项目当前提示 npm 同名包仍是旧版，建议从 [Releases](https://github.com/c1overzz/dsh-bili-scroll/releases) 获取安装包。以下是本次核对的版本：
+
+```sh
+dsh plugin --profile web add https://github.com/c1overzz/dsh-bili-scroll/releases/download/v2.0.2/dsh-bili-scroll-2.0.2.tgz
+```
+
+装完重启 DSH，进入 **设置 → 刷B站**，安装主依赖并扫码登录；运行环境需要 Python 3.10+ 或 `uv`。在「偏好」中一行填写一个关注关键词，例如：
+
+```text
+DeepSeek Harness
+开源 AI Agent
+VuePress
+```
+
+先手动跑一轮检查报告，再设置自动运行。桌面版若出现自动任务卡住，可先使用「现在跑一轮」。无字幕视频可能需要额外安装本地转写依赖。
+
+插件还支持评论、回复和私信投递。只想整理日报时，先检查投递方式并关闭不需要的互动选项；评论区的配置见下面的小节。
+
+### B 站评论区玩法
+
+评论区可以用来接收视频推荐、让 Agent 接着话题聊，也可以给自己的投稿配置自动答疑。前面的 `dsh-plugin-bilibili` 主要负责检索和读取视频；评论与回复需要下面这些提供写入能力的插件。
+
+#### 看完视频，留短评并 @ 你
+
+已安装 [dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll#设置页里有什么) 时，进入 **设置 → 刷B站 → 互动**，启用「自动评论并 @ 你」，按页面填写提醒对象，并把投递方式选为「只发评论」或「两边都发」。需要继续接话时，再开启「回复评论」；该选项只回楼中楼，默认关闭。
+
+它会先读视频内容，再发短评和提醒。可以在「偏好」的人设提示词中写：
+
+```text
+你是我的 B 站学习搭子，关注开源工具和编程教程。
+评论先说视频中一个具体、值得讨论的点，再给出简短看法；控制在 80 字以内。
+回复时围绕原话题，不重复发推荐，不确定的地方明确说明。
+```
+
+提示词控制口吻，是否发送、发给谁和每轮条数仍由插件设置决定。首次可将每轮评论上限设为 1，手动跑一轮核对实际评论。
+
+#### 让“大肥鱼”守评论区，或只回应 UP 主邀请
+
+[dsh-bili-pond（B站鱼塘）](https://github.com/YOYOLnFu/dsh-bili-pond) 提供两种独立玩法：
+
+- **评论区守护**：自己的视频下可回复有内容的评论；别人的视频下只回应白名单用户主动发来的 `@`。有回复记录可核对。
+- **圈地自萌**：只接受视频 UP 主本人一级评论中的明确邀请，例如“鱼来”。回复落在邀请的楼中楼，同一邀请只回一次；普通观众喊话不触发，也不会主动新开楼。
+
+项目要求 DSH `>=0.1.7-rc.1`、Node.js `>=22` 和可用模型线路。桌面版安装命令：
+
+```sh
+dsh plugin --profile desktop add dsh-bili-pond
+```
+
+重启后进入 **设置 → B站鱼塘**，安装运行环境、扫码登录，并在「检索与上下文」指定工作区，点击「建模板」填写人设。然后按用途配置：
+
+| 用途           | 设置位置与操作                                                    |
+| -------------- | ----------------------------------------------------------------- |
+| 守评论区       | 打开「守护评论区」，设置白名单 UID、扫描范围和回复上限            |
+| 只接 UP 主邀请 | 在「发布与互动」将评论模式设为「圈地自萌」，填写「在评论里 @ 谁」 |
+
+守护默认关闭；圈地自萌与普通评论模式互斥。这个项目由 `dsh-bili-scroll` 衍生，但配置不兼容，应按[鱼塘自己的说明](https://github.com/YOYOLnFu/dsh-bili-pond#第一次使用3-步)配置。
+
+#### 把评论区变成 DSH 的聊天入口
+
+如果想让网友通过评论回复和 `@` 找 Agent 聊天，可以看 [seiuna/dsh-bilibili-plugin](https://github.com/seiuna/dsh-bilibili-plugin)。它把通知交给 DSH，同一视频或动态下的讨论进入同一个会话，方便保留上下文。
+
+项目要求 Node.js 22+。进入实际使用的 profile 目录安装，以下以 `web` 为例：
+
+```powershell
+cd ~/.dsh/profiles/web
+pnpm add @seiuna/dsh-bilibili-plugin
+```
+
+在该目录 `package.json` 的 `dsh.profile.bundles` 数组中追加 `@seiuna/dsh-bilibili-plugin`，保留原有条目。重启 DSH 后，点击顶部「B站」按钮扫码登录、设置本地解锁密码，再选择通知类型、模型和工作区；需要后台接话时启用自动回复。
+
+可先让 Agent 读取指定视频的评论、生成回复草稿，确认内容和回复对象后再发送。手动发评论默认有操作预览；**开启自动回复后，后台发送不会逐条询问**。目前通知轮询每次只读取一页，消息密集时可能漏掉较早通知，不能当成完整的评论归档。
+
+这些玩法都会以登录的 B 站账号发言。试用时应明确 AI 助手身份，设置较低的回复上限；登录凭据和私人会话不要写进评论或人设模板。
+
+### 边写代码边用小窗看视频
+
+[dsh-bili-widget](https://github.com/pyf2818/dsh-bili-widget) 提供可拖动、缩放的悬浮播放器，支持搜索、热门与排行榜、自动连播和观看历史。项目目前要求 **Windows + DSH 桌面应用（web profile）**。
+
+按作者给出的方式，在 DSH 对话中输入：
+
+```text
+请安装 https://github.com/pyf2818/dsh-bili-widget 这个插件。
+```
+
+重启后在侧边栏打开「B站」，选择视频播放；`M` 切换迷你模式，`N` 切换专注模式，标题栏的最小化按钮可收起为悬浮球并继续播放。这个插件负责播放；需要字幕总结时，再使用前面的检索插件。
+
 ## 其他热门社区项目
 
 - [dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)：根据任务选择推理和执行策略。

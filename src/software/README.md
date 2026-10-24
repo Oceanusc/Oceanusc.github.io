@@ -55,6 +55,8 @@ sticky: 9
 
 - [REA：让 AI Agent 帮你分析应用与二进制](rea.md)
 - [DeepSeek Harness](deepseek-harness.md)
+- [DeepSeek Harness 的 B 站玩法](deepseek-harness.md#b-站玩法)
+- [DeepSeek Harness 的 B 站评论区玩法](deepseek-harness.md#b-站评论区玩法)
 - [nanobot：一个轻量的自托管个人 AI Agent](nanobot.md)
 - [Laya：开源的非自回归决策模型](laya-model.md)
 - [Jev：面向结构化判断的托管决策模型](jev-model.md)
