@@ -30,6 +30,18 @@ export const zhNavbarConfig = navbar([
     ],
   },
   {
+    text: "互动实验室",
+    icon: "flask",
+    prefix: "/lab/",
+    children: [
+      { text: "实验室首页", link: "" },
+      { text: "专题导图", link: "mindmap" },
+      { text: "CSS 实验室", link: "doodle" },
+      { text: "图片取色", link: "colors" },
+      { text: "文章里的小交互", link: "annotations" },
+    ],
+  },
+  {
     text: "软件教程",
     icon: "software",
     prefix: "/software/",

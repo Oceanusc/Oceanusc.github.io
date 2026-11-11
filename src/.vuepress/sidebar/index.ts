@@ -16,6 +16,8 @@ import { vue } from "./vue.js";
 import { jquery, website } from "./website/index.js";
 
 export const zhSidebarConfig = sidebar({
+  "/lab/": ["", "mindmap", "doodle", "colors", "annotations"],
+
   "/software/vscode/": vscode,
 
   "/software/git/": "structure",

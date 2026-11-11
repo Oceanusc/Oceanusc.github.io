@@ -11,6 +11,10 @@ copyright: Copyright by 廖雪峰 Edited by oceanusc
 
 Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。在开发中分布式文件管理系统，可以便于多人协作开发。
 
+<RoughMark type="underline">先理解工作区、暂存区与版本库，再记忆具体命令。</RoughMark>
+
+可以打开[Git 知识导图](../../lab/mindmap.md)，按日常提交、分支协作、远程同步和找回改动梳理学习路线。
+
 ::: info 交互式学习
 
 如果您觉得本文太枯燥，这里有一个 [交互式的分支演示与学习网站](http://learngitbranching.js.org/)。您可以在这里领略 Git 的魅力。
