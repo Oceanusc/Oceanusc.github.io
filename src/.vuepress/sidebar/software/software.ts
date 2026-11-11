@@ -30,7 +30,7 @@ export const software = arraySidebar([
   {
     text: "开源软件",
     icon: "software",
-    children: ["rustdesk", "immich", "stirling-pdf"],
+    children: ["rustdesk", "immich", "stirling-pdf", "nxnative"],
   },
   {
     text: "AI Agent",

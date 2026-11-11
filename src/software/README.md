@@ -50,6 +50,7 @@ sticky: 9
 
 - [Immich：把照片备份回自己的服务器](immich.md)
 - [Stirling PDF：在本地完成 PDF 处理](stirling-pdf.md)
+- [nxnative：从逆向分析到 Switch 游戏原生运行](nxnative.md)
 
 ## AI Agent
 
