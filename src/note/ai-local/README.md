@@ -1,5 +1,6 @@
 ---
 title: AI 本地部署
+description: 根据设备选择模型，使用 Ollama 与 Open WebUI 搭建本地 AI 助手，并了解容器部署、升级备份与常见故障处理。
 icon: robot
 category: 工具分享
 ---
@@ -7,6 +8,8 @@ category: 工具分享
 # AI 本地部署：从零开始部署 Ollama + Open WebUI
 
 本地部署适合离线使用、保护提示词与文档数据、稳定试用开源模型。对大多数个人用户，推荐从 **Ollama + Open WebUI** 开始：Ollama 管理并运行模型，Open WebUI 提供浏览器聊天、模型选择和知识库界面。
+
+<!-- more -->
 
 ## 0. 选择方案与模型
 

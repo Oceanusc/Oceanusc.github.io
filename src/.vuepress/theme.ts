@@ -5,11 +5,11 @@ import { enSidebarConfig, zhSidebarConfig } from "./sidebar/index.js";
 
 export default hopeTheme(
   {
-    hostname: "https://daiding.site",
+    hostname: "https://oceanusc.github.io",
 
     author: {
       name: "oceanusc",
-      url: "https://daiding.site",
+      url: "https://oceanusc.github.io",
     },
 
     favicon: "/favicon.ico",
@@ -37,7 +37,7 @@ export default hopeTheme(
           description: "不生产知识，主要负责收藏、整理和忘记。",
           medias: {
             GitHub: "https://github.com/oceanusc",
-            Gmail: "che4ac@outlook.com",
+            Gmail: "mailto:che4ac@outlook.com",
           },
         },
       },
@@ -48,7 +48,7 @@ export default hopeTheme(
 
     plugins: {
       blog: {
-        excerptLength: 0,
+        excerptLength: 160,
       },
     },
   },

@@ -1,6 +1,7 @@
 ---
 date: 2022-01-07
 title: Git
+description: 从工作区、暂存区与版本库开始，学习日常提交、分支协作和远程同步，配合知识导图梳理 Git 学习路线。
 icon: git
 category: Git
 tag:
