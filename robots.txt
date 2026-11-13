@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://daiding.site/sitemap.xml
+Sitemap: https://oceanusc.github.io/sitemap.xml
