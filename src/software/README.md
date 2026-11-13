@@ -50,9 +50,11 @@ sticky: 9
 
 - [Immich：把照片备份回自己的服务器](immich.md)
 - [Stirling PDF：在本地完成 PDF 处理](stirling-pdf.md)
+- [nxnative：从逆向分析到 Switch 游戏原生运行](nxnative.md)
 
 ## AI Agent
 
+- [REA：让 AI Agent 帮你分析应用与二进制](rea.md)
 - [DeepSeek Harness](deepseek-harness.md)
 - [nanobot：一个轻量的自托管个人 AI Agent](nanobot.md)
 - [Laya：开源的非自回归决策模型](laya-model.md)

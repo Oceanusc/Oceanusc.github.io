@@ -30,17 +30,22 @@ export const software = arraySidebar([
   {
     text: "开源软件",
     icon: "software",
-    children: ["rustdesk", "immich", "stirling-pdf"],
+    children: ["rustdesk", "immich", "stirling-pdf", "nxnative"],
   },
   {
     text: "AI Agent",
     icon: "software",
     children: [
-      "deepseek-harness",
-      "nanobot",
-      "laya-model",
-      "jev-model",
-      "microsoft-agent-framework",
+      { text: "REA", icon: "robot", link: "rea" },
+      { text: "DeepSeek Harness", icon: "robot", link: "deepseek-harness" },
+      { text: "nanobot", icon: "robot", link: "nanobot" },
+      { text: "Laya", icon: "robot", link: "laya-model" },
+      { text: "Jev", icon: "robot", link: "jev-model" },
+      {
+        text: "Microsoft Agent Framework",
+        icon: "robot",
+        link: "microsoft-agent-framework",
+      },
     ],
   },
 ]);

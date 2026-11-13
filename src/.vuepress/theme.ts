@@ -5,16 +5,14 @@ import { enSidebarConfig, zhSidebarConfig } from "./sidebar/index.js";
 
 export default hopeTheme(
   {
-    hostname: "https://daiding.site",
+    hostname: "https://oceanusc.github.io",
 
     author: {
       name: "oceanusc",
-      url: "https://daiding.site",
+      url: "https://oceanusc.github.io",
     },
 
     favicon: "/favicon.ico",
-
-    iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
 
     logo: "/logo.png",
     fullscreen: true,
@@ -37,7 +35,7 @@ export default hopeTheme(
           description: "不生产知识，主要负责收藏、整理和忘记。",
           medias: {
             GitHub: "https://github.com/oceanusc",
-            Gmail: "che4ac@outlook.com",
+            Gmail: "mailto:che4ac@outlook.com",
           },
         },
       },
@@ -47,8 +45,11 @@ export default hopeTheme(
     copyright: "Copyright © 2022-present oceanusc",
 
     plugins: {
+      icon: {
+        assets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
+      },
       blog: {
-        excerptLength: 0,
+        excerptLength: 160,
       },
     },
   },
