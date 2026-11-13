@@ -102,3 +102,4 @@ Laya 的仓库包含不同检查点：基础英文模型、多语言模型，以
 - [多语言模型权重](https://huggingface.co/convaiinnovations/laya-multilingual)
 - [Laya 官方文档](https://nandhakishorm.github.io/laya/)
 - [Jev 决策服务介绍](jev-model.md)
+

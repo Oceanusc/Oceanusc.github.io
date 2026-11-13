@@ -69,3 +69,4 @@ Jev 本身是托管服务，不能把 Jev 权重下载到自己的服务器上�
 - [TypeSafe Jev 官方文档](https://docs.typesafe.ai/introduction)
 - [Jev Ultrafast 浏览器 Agent 演示](https://github.com/browser-use/jev-ultrafast)
 - [Laya 开源决策模型教程](laya-model.md)
+
